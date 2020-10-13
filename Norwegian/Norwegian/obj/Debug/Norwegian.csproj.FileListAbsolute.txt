@@ -8,9 +8,3 @@ C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\obj\Debug\Norwegia
 C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\obj\Debug\Norwegian.csproj.CopyComplete
 C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\obj\Debug\Norwegian.exe
 C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\obj\Debug\Norwegian.pdb
-C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\hidemyProxyTool.exe
-C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\HtmlAgilityPack.dll
-C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\hidemyProxyTool.pdb
-C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\hidemyProxyTool.exe.config
-C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\HtmlAgilityPack.pdb
-C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\HtmlAgilityPack.xml
