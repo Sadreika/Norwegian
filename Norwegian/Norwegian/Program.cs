@@ -7,7 +7,7 @@ namespace Norwegian
         static void Main(string[] args)
         {
             Crawler crawler = new Crawler();
-            crawler.crawlingAsync().Wait();
+            crawler.crawling();
             Console.ReadLine();
         }
     }
