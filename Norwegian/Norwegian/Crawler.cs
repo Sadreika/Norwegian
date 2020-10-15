@@ -1,41 +1,28 @@
-﻿using RestSharp;
 using System;
 using System.Net;
+using System.Net.Http;
 
 namespace Norwegian
 {
     public class Crawler
     {
-        private string url = "https://www.norwegian.com";
-        private RestClient client = new RestClient();
-        public void GETMethodCrawl(RestClient client, string query)
+        private string url = "https://www.norwegian.com/uk/";
+        private HttpClient client = new HttpClient();
+
+        public async System.Threading.Tasks.Task crawlingAsync()
         {
-            RestRequest request = new RestRequest(query, Method.GET);
-            IRestResponse response = client.Execute(request);
-            Console.WriteLine(response.StatusCode);
-        }
+            client.DefaultRequestHeaders.Add("Host", "www.norwegian.com");
+            client.DefaultRequestHeaders.Add("UserAgent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0");
+            client.DefaultRequestHeaders.Add("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8");
+            client.DefaultRequestHeaders.Add("Accept-Language", "lt,en-US;q=0.8,en;q=0.6,ru;q=0.4,pl;q=0.2");
+            client.DefaultRequestHeaders.Add("Accept-Encoding", "gzip, deflate, br");
+            client.DefaultRequestHeaders.Add("DNT", "1");
+            client.DefaultRequestHeaders.Add("Connection", "keep-alive");
+            client.DefaultRequestHeaders.Add("Upgrade-Insecure-Requests", "1");
 
-        public void crawling()
-        {
-            client.BaseUrl = new Uri(url, UriKind.Absolute);
-            //client.Proxy = new WebProxy("1.0.183.218", 8080);
-
-            client.BaseHost = "www.norwegian.com";
-            client.ConnectionGroupName = "keep-alive";
-            client.AddDefaultHeader("sec-ch-ua", "\"Chromium\";v=\"86\", \"\\\"Not\\\\A;Brand\";v=\"99\", \"Google Chrome\";v=\"86\"");
-            client.AddDefaultHeader("sec-ch-ua-mobile", "?0");
-            client.AddDefaultHeader("Upgrade-Insecure-Requests", "1");
-            client.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36";
-            client.AddDefaultHeader("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9");
-            client.AddDefaultHeader("Sec-Fetch-Site", "cross-site");
-            client.AddDefaultHeader("Sec-Fetch-Mode", "navigate");
-            client.AddDefaultHeader("Sec-Fetch-User", "?1");
-            client.AddDefaultHeader("Sec-Fetch-Dest", "document");
-
-            client.AddDefaultHeader("Accept-Encoding", "gzip, deflate, br");
-            client.AddDefaultHeader("Accept-Language", "en-US,en;q=0.9");
-
-            GETMethodCrawl(client, "/uk/");
+            string content = await client.GetStringAsync(url);   
+            Console.WriteLine(content);
+        
         }
     }
 }
