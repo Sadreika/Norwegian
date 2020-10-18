@@ -1,15 +1,88 @@
+using HtmlAgilityPack;
 using RestSharp;
+using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Norwegian
 {
     public class Crawler
     {
-        private IList<RestResponseCookie> cookieList = new List<RestResponseCookie>();
+        //private IList<RestResponseCookie> cookieList = new List<RestResponseCookie>();
+
+
+        public string departureAirport;
+        public string arrivalAiport;
+        public string departureTime;
+        public string arrivalTime;
+        public string cheapestPrice;
+        public List<Crawler> allCollectedData = new List<Crawler>();
+        
+        public Crawler()
+        {
+
+        }
+
+        public Crawler(string departureAirport, string arrivalAiport, string departureTime, string arrivalTime, string cheapestPrice)
+        {
+            this.departureAirport = departureAirport;
+            this.arrivalAiport = arrivalAiport;
+            this.departureTime = departureTime;
+            this.arrivalTime = arrivalTime;
+            this.cheapestPrice = cheapestPrice;
+        }
+
         public void crawling()
         {
-            firstPageLoad();
+            //firstPageLoad();
+            HtmlDocument doc = new HtmlDocument();
+            readingTxtFile(doc);
+            gettingData(doc);
         }
+
+        private HtmlDocument readingTxtFile(HtmlDocument doc)
+        {
+            string text = File.ReadAllText("Norwegian code.txt");
+            doc.LoadHtml(text);
+            return doc;
+        }
+        private void gettingData(HtmlDocument htmlDocument)
+        {
+            List<String> departureAirports = new List<string>();
+            List<String> arrivalAirports = new List<string>();
+            List<String> departureTime = new List<string>();
+            List<String> arrivalTime = new List<string>();
+            List<String> cheapestPrice = new List<string>();
+          
+            foreach (HtmlNode data in htmlDocument.DocumentNode.SelectNodes("//td[@class='depdest']//div[@class='content']"))
+            {
+                departureAirports.Add(data.InnerText);
+            }
+            foreach (HtmlNode data in htmlDocument.DocumentNode.SelectNodes("//td[@class='arrdest']//div[@class='content']"))
+            {
+                arrivalAirports.Add(data.InnerText);
+            } 
+            foreach (HtmlNode data in htmlDocument.DocumentNode.SelectNodes("//td[@class='depdest']//div[@class='content emphasize']"))
+            {
+                departureTime.Add(data.InnerText);
+            }
+            foreach (HtmlNode data in htmlDocument.DocumentNode.SelectNodes("//td[@class='arrdest']//div[@class='content emphasize']"))
+            {
+                arrivalTime.Add(data.InnerText);
+            }
+            foreach (HtmlNode data in htmlDocument.DocumentNode.SelectNodes("//td[@class='fareselect standardlowfare']//div[@class='content']"))
+            {
+                cheapestPrice.Add(data.InnerText);
+            }
+
+            for(int i = 0; i < cheapestPrice.Count; i++)
+            {
+                Crawler crawler = new Crawler(departureAirports[i], arrivalAirports[i], departureTime[i], arrivalTime[i], cheapestPrice[i]);
+                allCollectedData.Add(crawler);
+            }
+        }
+
+        //JUNK
         private  void firstPageLoad()
         {
             RestClient client = new RestClient("https://www.norwegian.com/uk");
@@ -21,7 +94,9 @@ namespace Norwegian
             client.AddDefaultHeader("DNT", "1");
             client.ConnectionGroupName = "keep-alive";
             client.AddDefaultHeader("Upgrade-Insecure-Requests", "1");
+           
             RestRequest request = new RestRequest("", Method.GET);
+            
             IRestResponse response = client.Execute(request);
             addingCookiesToCookieList(response.Cookies);
         }
@@ -29,35 +104,9 @@ namespace Norwegian
         {
             foreach (RestResponseCookie cookie in cookiesToAdd)
             {
-                cookieList.Add(cookie);
+               // cookieList.Add(cookie);
             }
         }
-        private void firstPageLoada()
-        {
-            RestClient client = new RestClient("https://www.norwegian.com/uk");
-            // Headers
-            client.AddDefaultHeader("Host", "www.norwegian.com");
-            client.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0";
-            client.AddDefaultHeader("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8");
-            client.AddDefaultHeader("Accept-Language", "en-GB,en;q=0.5");
-            client.AddDefaultHeader("Accept-Encoding", "gzip, deflate, br");
-            client.AddDefaultHeader("Content-Type", "application/x-www-form-urlencoded");
-            client.AddDefaultHeader("Origin", "https://www.norwegian.com");
-            client.AddDefaultHeader("Upgrade-Insecure-Requests", "1");
-            client.AddDefaultHeader("DNT", "1");
-            client.ConnectionGroupName = "keep-alive";
-            client.AddDefaultHeader("Upgrade-Insecure-Requests", "1");
-            client.AddDefaultHeader("Referer", "https://www.norwegian.com/uk/");
-            // Request
-            RestRequest request = new RestRequest("", Method.POST);
-            request.AddCookie(" __cfduid", "d252ad7494745aa9fdc0a253b470c6c761602946166");
-            string requestQuery = "r=a7a41400bbe44763bd0388a21fa31b05e920fa76-1602946166-0-AV%2FkFD97iqxvSGAhXcViZe3lSyNBDoZ%2FTOCrp0JytLHVS6oKsCBluxlfBvaCpljgjaD6IVlsLGejpzGhgNjzpx3gmcWZnb76t11BySA8Tl%2F%2BDs4rEYL3A2H4CNOVLnr3ERQWZJSUz00MPL%2BL66ADHR4PZdwZwTXzxhqvafOm6l0zfwX0HomMH1RlPVOU8%2Fi36CmL4pDBozd4C5RKwEjlGHF8GYXC7NYGt7R0tp1R%2Fv76MsiihQOvd6AgRIy56u1bgKSy0a28a8Z%2B0zrB8mjyDhrexLacJKyz%2FuWDJis1lGKzK6A6VzqUJd9Rr08y6j%2BmWbj77MHe6B5Q%2BCiMIslAJo6m2S6HZJxYdy5BlIzMknMot2%2FGAnm75LuQ4xA8eU1jPH3tNqYgJhiVp%2FeaQRYLh1MhZwowPcHhHWaP3UbUAtNTJn7ObXSKMB8R3eVqSYmXOw71scuz1q8oj%2Fad9s8pysDe5tzqoeRd8ypJ1%2BC3gK2s4slxcsNXRAkv1AJPse9Iw7uQpssFzg2QuKohDh43pHiv3xzjsV%2BtUPcSgW7XXDKq7UI2Z56q%2F0UkIqr3mowSKJLx2sPO754WqZbTr9kjuaHTWZoIr89qmSxOD6LdKi7n2JnXK9Pi7fLEm%2F0WfpZzgMbQh3MjL16jhMlQ1XLvUcxLQzWCA1MxxeKMkr5z%2FJcZRtdr2t7GICqpkCfmIAL4W800%2BCaIaxbyE8iTEkhDCTy6yfdxX9sXRJ4JSw5oW3kDmZNs%2BfnZrLaBURGvdoh3dYovv238KYEHhsKHZPUOHVBj4w1Dckw4Q6sZrmzBmwAJThwqoxV%2Fgj0BueOz3TGP7Y82eMZMOn7wfxWIa4zyM%2F%2B4vUPY32mY8z1WnYnENAVQE41vzQ5jTVMyMwRTtzmGgcOIHywXdzXNjUtD8Vh4Q9MFLF6rwFrcCdwPgq%2Fy6xm5XTHtVCA3sCLQX7UrXj5GYlbYwzBPq3xtERD7B5vaIbyTQEBx0TLXKn1YwCGXNRyOts6lajlQli4LjjI%2BH8IViJcwO%2F4Nhmu1QBdAWKmIcjX9tvXz09K6KdZ3RW4fGOLlf2LpQVt7LvAMH87sfRXaLlBc%2B87gH6p1%2BNLgxayE5i42Zb7%2BMwN71i3bQYOnjpuzVi7B0mt8C1g3gKi2PN9AXekcWcTutTDKQ%2BVMOjrsj9Hqcwq8UNi9dJ1Jg913Wq0rx6oHtiKE5gIVU8ozEd5zEzUTNP%2FMR8i%2F24bQpV%2F0DVJd8Co4X7lijl90uJcQtfOPlSARVIurpamSp3pt84RSgw0O%2F5kina39%2BD%2FcsCq%2Bq5KMryLakUxywpnVqcZHvoAFgUHyivHWwqWPNLVya8HDVwkkXJYHHlOQ4%2FbtRUXqXlmId8nYPUg76KhC8Bx9BE9ZyKUAS5qX2R2NhiOxYva1XwfhtRgQm5d1Nk4dln80xpzAoGkxkFQjxctpGCPUU5MXBh0ONOEmVx5ttPld8XSvnM%2FpazlCahPE%2B5O%2FoLcpZtd5ssRNQKasGIhF5y%2FYrk3MzqTKvWNVT29JkZc4Jxk4kjIXA0rePCrnKLcJm6G4IGY%3D&cf_captcha_kind=h&vc=&id=5e3ad387582db49c&g-recaptcha-response=P0_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXNza2V5IjoiTU9OdXRqdmcyY1BWV05ZRlEvNlRycHo2VTJkd3pCN1RhTlF4VkNodDNPeHRDTDVpeWN5OUxwckswOUZTUFg1ZHR2a2xHUldrRWdRbitmNUx2UXVIdExsdzFFTzJWbUc2YVF1Mmtna2haUmdRcGpGQzJlUVhLOUd3THUxbnE0KzUzRWMyNmtLL20yaFVlRlRjOCtWOGduaWVzV3VCSnRtVVFGSjRUWjNoMnFvZ01RQTErN1lmbXVxazdVZEZOQkQ3UWhpYkZIakVCc2czRDRoaXloTVFBd1dFa2dmRE1iRGVWbWoxUGVCck16M3l3YWZPSDl0b1dHZXM1djJFVW10WFVub1lSR0tMYjJBTGk4YU0rdmd0UGwvVVQzVTFPYk56MkdlSHhFVTFmT1VibEhXd1MxUXBUb2pjMVhCQnRSMGtqeXJXN0FBdzZzVENJU0lOOGpTbjd2L3NTdHhJNnI2ZVdwVWlHaFphRmdocGo1WExjVGJvRFQ4emZUTGVwK2Mvb1VibGI5UXZaQjFMb3o1d3Y1RlJSS1FHckY4VlJlN3E2ZWxIMUg2VzN3WSt6bXlTaU5VbFRCU2FXd1ZCQWhxUS9NNk1WUEVVWndBd2p4eDNER1owM3dzL3h0TW96Nml4YXFRRnU3bWJBTloyQjVmSmJuWG9IZDJrZzhWc1drRzQwMUlma0FKRmpCOG9Ra002RlJIeFpJQlcrTE4rRWpZOVEwWTV4Z2RQenhZYStNbndZMGV0YkY3SDBpMGZKYk51V3NleC9MZitIYUp3ZDBnblNJUTBHMlY4Tnc1a1VoWHBWY3BBT0NwcWV4Y2V3cU9tWkhidTlCUGhjYThuUytTd0Q0RnRkVWJmczh6MGdZQ3lQVzVsbnhxUDFwTWVramVmNHRTRS9keFg0ZWFNbnRCZTZya3hHVHFnNkdDcS9BdkcvSjgzWE9MU1dtc0RUZGlQN0Vhc0xvUlNCVHJ5TWNBeVdGNVBDWGdrYTRYbkFuVnh2cHJsRlNtUGY4V094Tm1SRFdlbkhUQ2g2aGpKN09UckhoNnVNV3ErN0pTYk5JOTQyVWFYT1VFdWJHNXloby9FUjdWWVNZTTFFVE0rdHUwRVdUbzRFMWw5blRSQXRRdm5PZWFVdXIzVitET1ZFMWQ0YjJNQmNvMUZCZ1N2TkhtbDhKSVB2emR4UmhnY2VUOXlCU1lOUTRyVEpIQTFJcnc0QW5oWGtYVzc0RHAvbDRkaDE3VHZSWUIxNDliTEdwZW04R3cyM3dVTmdXWi93cldpalgyY1RkSzl0Y285MUZyR2hHdllpUmlPRnV6Y0ZnVUpRUHNocUNFRTlyUHIwVnhLL3U0M2tScWdjcnZ3YS9wc3hkTENKWnZZdHhxSTB3bzc4NTZ1MGRGTGE4SkhkOW15SnVyWEIzZGR5RzhzOTJJcjZ1VmNmeVdRNHlma0xOLzkzVCtiVU5OOGltVHc1dUkwOWFBV01jOTRZZXFIa1NGTC9mNmNHbloralZCeVoxa2RWT0VTYzFueFFkVGdTakVzMFZXampWelBrK3UrMmY4bThsY1lKc1hJamlIaUJ1Qmhxam11VUljVWg3R1JEeWtKREp2NHFpekJDQlJ6ZU5aWW9yOVJ6eFVLT2V3V3pFYjBIclpTcWFVeVJ6WDdwb2xCUUZYam90S0htZVZud1lEMlBTS1lRYUVOdk9Da0UwUE9UNDdWUVd1Z1ArQWxUYndDWlFCWWJWSDFHWHZPMTdWUS8reXoyb0lTRktxVWdnVkFobFU2dlkzUVJqTUQ1ZWxnSEJwWCtING1qb2dxNmEvUHh2Kzl4c1QxUGpnQ3c3aFRZT003WFVMVFJkcnJJcXRCWmYwRzEyNTFsM1JDR2pyK09yengvSGNHUjVFRlFKQXAyVzlPTTFzRGtyN01WNVNEWFJqTGtlb2FhOTJrbHhyekNsVnJWYmhDUEdPcWNFVkpMb0hGRmh0ZkJlWElJRi9WTUlJclFacU5zV1JubTJoUXBjMnBza0hHakE0TkVpb3c3ZGFOZi9tR1ppSzlzYXc0cGpac2t6dnQ3Z0hmd2FsS3hVNDVNR015dS9ERVQ3U3JibWNValhWbjYxcGJtNGQ3Y0w2TjlJVkFrWkxmQllyYWRjOElvU3hQb0xqRmpOcjdnRlRQekZVNHRPSmZDdXdnQkxoUVdiejdzYTN0enRhZVVGY25xcHAzNVZYcGw3QkJSWFRSM0Q4SUZsV2k0eU5hM1locFVPQ2tReVNhaUthVVQ0aGt4aVJpMEdiS0t4b3FHYnBwbUo4ODV4K0hiVXJZVGxPc0piNmN6VlF0dVhxOFVMRFZ1THFXd25HaUJ3ZXRKaDF0WTVDdEJrQVFPaWNreWZ0Q25VQ0NoVXNObmt6NGhxM2hNTjBJdUxVQWRXRFFWOWNzNjh2RmtKZ1ZTR1RZSE1GdGJKbkVSeWRBbEFXeXVGU3FpRStpVDFCa0dZRDVENUZwcDJvNkJRSEZxMEhnaXNsZUJ3WEF6WWhaOVExMXUxYzZZUi8wdEY2TVk3dlZBd0U5REU0d2l2dzBkdUt5YkVMNldBS05RTnQyU09XekYzWmR6MEhINndFV2RXc0t5b0kvdjFKTnBhZ0V2TXFQRVVtS1ZqcG5GczRUaFBCRURDQU5GZGdLNVVBaG40VGIwdG5HM3NjaG92QkExQlBvRG8yT2phWXhGdVZRQy9nVElUQkllVWpHcEw1UDB2YnNZcHB5RE1naTF0VFdhT0R5SWpma1hTRm4rZmJINmVzZ3RUMG4ydkpiU1ZldGFuQjB3OVRkMDlhcUJOSEJnR2xjVFFRKzI4bjF4TDJPZFlDMnVHRURUb3dnOHlYMk1SeEtRTUFBR2wwak1HWUE1NEs4Tmo2cE1FNmRkZUFydmdGN3pQQ0VWUGQ4UGxMMW1WWFJidUxHSk5oa1lTdHl4US9VQmFuUEx4SmRIUldTZy9PYzlWL3A5VXg4Wkt4YVFtTTNQYzZnNjIxbW1xOExpQ2xxWHRaUVh3WVh1OUJMMmk2dXdtQjRwaUEzN2FEbEpnbDFTY2tHMlA2eWtIdWJzcGxsTkxZWlRscUpZeUxaQVJSZExTZmxsblpDUnlTa0VST3cwN0hNWVdrQ1VLOTRkWVNvNkpBa01lNmxIMi9sMmhFKzhGRlh2emw2OGFoeWNCaVM1YkxxYVdqK2ZkRlFwYS9VL0QraEZZZDRTNXFFd1dIU0dkK3hqS3Z6QVdPaTFoTm9ZUWVjM3VXaTB0SWZnL01CcVVtYXgxeXNTajNCeFF6MUhOMk9jR3RpWjhtcGovRkN0OURmREpvc1RYcGdNWDBORDd6Yi9jUFJmQWhzdTFQQWpCQldIU1pNamw5Y3E5cExpV1FPUXZGbHJRVnVuQlp3eHUvaGFFdm9abXlFa29paTJjRGluSkt0MUpNektFdVl3OVB1YmJwN3JESHgvU1NDejBWT2ZpN1JJREhZeVpmdzYvSi9BWEtkTVp5ZUt4OGJTcmk3VmhxMHhxbWFldWNZdFR4bWs3VHRBMnlMWGdkdUdFV3B3RkFlbzJNRGxRYmlHU3NQVHlhbmtkZk9LUzRJWGFzdkxMN3h2b2dBdzE0T2h5NlJCMk5ibTU4akVPUTQwT2VuNVVWR3B5R1JFOEpqL0dJT252QmhjY3AwckVKUTBaS2tkUGJTOTFseDNoSDBjeUlrQ3RpMFhtVC9qcUU5cm1jTzhURWJna21zdlFJYU9ZMXExUjRXWlJWOHE0TGMvSE9UU0FsVFJKWW9BSmJsNmhrQmlvTEZpY2k2Ukd2S0M0WjNuREJFeGxmTkRWUVQ1SVRXT3d1Q3YzTVZVSGpCWUU2ZWtJV2ZNdFRvRHNEeExsM2dMcmd3ZzR1VHcvRk5jZFpZMndZS2dJYXNUbFNKSFlTQWFpeHAwaHlHRXI1QnBjMzhlejVrZmJqS0h4Q2xGTC80ZFh4YkNUODVORHFXckFLVURVU1V5aHZGRThoNDBRVVFzSnkzMlMvUWI4S2JDK2ptN0w0bTVoa0hRVUdTa1IwMFhLb1NKc0RSdmNkclA3enNBcHlrY3Y1akRNMVdjWWNJeldJWkRBVUVzY2hYNk1UcW5GczhXWkU2OHZJU3VvbFUxVkpsOVVPSkYyM3FhOWdUQnU4U2lvd1Mvc2gzVTd0U2JGWGN5M3ZiUGNwUFVmMkpIQkhCVnJxS0dFbWRlc2loTXpPSFNVK1RKMjZrVGlUdThlQVpxYVBVUHpNK3FGb2Q4M3VEZk1Vd1dGeEdsbGNRSEE9PU0wWkhRK21Md1FOZGN2clEiLCJleHAiOjE2MDI5NDYzMTQsInNoYXJkX2lkIjoyMzU4MDExNjcsInBkIjowfQ.b0H_bi2wtIaig6tEqpr8Sz1c4ArKL68IrwgwsEHF6xg&h-captcha-response=P0_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXNza2V5IjoiTU9OdXRqdmcyY1BWV05ZRlEvNlRycHo2VTJkd3pCN1RhTlF4VkNodDNPeHRDTDVpeWN5OUxwckswOUZTUFg1ZHR2a2xHUldrRWdRbitmNUx2UXVIdExsdzFFTzJWbUc2YVF1Mmtna2haUmdRcGpGQzJlUVhLOUd3THUxbnE0KzUzRWMyNmtLL20yaFVlRlRjOCtWOGduaWVzV3VCSnRtVVFGSjRUWjNoMnFvZ01RQTErN1lmbXVxazdVZEZOQkQ3UWhpYkZIakVCc2czRDRoaXloTVFBd1dFa2dmRE1iRGVWbWoxUGVCck16M3l3YWZPSDl0b1dHZXM1djJFVW10WFVub1lSR0tMYjJBTGk4YU0rdmd0UGwvVVQzVTFPYk56MkdlSHhFVTFmT1VibEhXd1MxUXBUb2pjMVhCQnRSMGtqeXJXN0FBdzZzVENJU0lOOGpTbjd2L3NTdHhJNnI2ZVdwVWlHaFphRmdocGo1WExjVGJvRFQ4emZUTGVwK2Mvb1VibGI5UXZaQjFMb3o1d3Y1RlJSS1FHckY4VlJlN3E2ZWxIMUg2VzN3WSt6bXlTaU5VbFRCU2FXd1ZCQWhxUS9NNk1WUEVVWndBd2p4eDNER1owM3dzL3h0TW96Nml4YXFRRnU3bWJBTloyQjVmSmJuWG9IZDJrZzhWc1drRzQwMUlma0FKRmpCOG9Ra002RlJIeFpJQlcrTE4rRWpZOVEwWTV4Z2RQenhZYStNbndZMGV0YkY3SDBpMGZKYk51V3NleC9MZitIYUp3ZDBnblNJUTBHMlY4Tnc1a1VoWHBWY3BBT0NwcWV4Y2V3cU9tWkhidTlCUGhjYThuUytTd0Q0RnRkVWJmczh6MGdZQ3lQVzVsbnhxUDFwTWVramVmNHRTRS9keFg0ZWFNbnRCZTZya3hHVHFnNkdDcS9BdkcvSjgzWE9MU1dtc0RUZGlQN0Vhc0xvUlNCVHJ5TWNBeVdGNVBDWGdrYTRYbkFuVnh2cHJsRlNtUGY4V094Tm1SRFdlbkhUQ2g2aGpKN09UckhoNnVNV3ErN0pTYk5JOTQyVWFYT1VFdWJHNXloby9FUjdWWVNZTTFFVE0rdHUwRVdUbzRFMWw5blRSQXRRdm5PZWFVdXIzVitET1ZFMWQ0YjJNQmNvMUZCZ1N2TkhtbDhKSVB2emR4UmhnY2VUOXlCU1lOUTRyVEpIQTFJcnc0QW5oWGtYVzc0RHAvbDRkaDE3VHZSWUIxNDliTEdwZW04R3cyM3dVTmdXWi93cldpalgyY1RkSzl0Y285MUZyR2hHdllpUmlPRnV6Y0ZnVUpRUHNocUNFRTlyUHIwVnhLL3U0M2tScWdjcnZ3YS9wc3hkTENKWnZZdHhxSTB3bzc4NTZ1MGRGTGE4SkhkOW15SnVyWEIzZGR5RzhzOTJJcjZ1VmNmeVdRNHlma0xOLzkzVCtiVU5OOGltVHc1dUkwOWFBV01jOTRZZXFIa1NGTC9mNmNHbloralZCeVoxa2RWT0VTYzFueFFkVGdTakVzMFZXampWelBrK3UrMmY4bThsY1lKc1hJamlIaUJ1Qmhxam11VUljVWg3R1JEeWtKREp2NHFpekJDQlJ6ZU5aWW9yOVJ6eFVLT2V3V3pFYjBIclpTcWFVeVJ6WDdwb2xCUUZYam90S0htZVZud1lEMlBTS1lRYUVOdk9Da0UwUE9UNDdWUVd1Z1ArQWxUYndDWlFCWWJWSDFHWHZPMTdWUS8reXoyb0lTRktxVWdnVkFobFU2dlkzUVJqTUQ1ZWxnSEJwWCtING1qb2dxNmEvUHh2Kzl4c1QxUGpnQ3c3aFRZT003WFVMVFJkcnJJcXRCWmYwRzEyNTFsM1JDR2pyK09yengvSGNHUjVFRlFKQXAyVzlPTTFzRGtyN01WNVNEWFJqTGtlb2FhOTJrbHhyekNsVnJWYmhDUEdPcWNFVkpMb0hGRmh0ZkJlWElJRi9WTUlJclFacU5zV1JubTJoUXBjMnBza0hHakE0TkVpb3c3ZGFOZi9tR1ppSzlzYXc0cGpac2t6dnQ3Z0hmd2FsS3hVNDVNR015dS9ERVQ3U3JibWNValhWbjYxcGJtNGQ3Y0w2TjlJVkFrWkxmQllyYWRjOElvU3hQb0xqRmpOcjdnRlRQekZVNHRPSmZDdXdnQkxoUVdiejdzYTN0enRhZVVGY25xcHAzNVZYcGw3QkJSWFRSM0Q4SUZsV2k0eU5hM1locFVPQ2tReVNhaUthVVQ0aGt4aVJpMEdiS0t4b3FHYnBwbUo4ODV4K0hiVXJZVGxPc0piNmN6VlF0dVhxOFVMRFZ1THFXd25HaUJ3ZXRKaDF0WTVDdEJrQVFPaWNreWZ0Q25VQ0NoVXNObmt6NGhxM2hNTjBJdUxVQWRXRFFWOWNzNjh2RmtKZ1ZTR1RZSE1GdGJKbkVSeWRBbEFXeXVGU3FpRStpVDFCa0dZRDVENUZwcDJvNkJRSEZxMEhnaXNsZUJ3WEF6WWhaOVExMXUxYzZZUi8wdEY2TVk3dlZBd0U5REU0d2l2dzBkdUt5YkVMNldBS05RTnQyU09XekYzWmR6MEhINndFV2RXc0t5b0kvdjFKTnBhZ0V2TXFQRVVtS1ZqcG5GczRUaFBCRURDQU5GZGdLNVVBaG40VGIwdG5HM3NjaG92QkExQlBvRG8yT2phWXhGdVZRQy9nVElUQkllVWpHcEw1UDB2YnNZcHB5RE1naTF0VFdhT0R5SWpma1hTRm4rZmJINmVzZ3RUMG4ydkpiU1ZldGFuQjB3OVRkMDlhcUJOSEJnR2xjVFFRKzI4bjF4TDJPZFlDMnVHRURUb3dnOHlYMk1SeEtRTUFBR2wwak1HWUE1NEs4Tmo2cE1FNmRkZUFydmdGN3pQQ0VWUGQ4UGxMMW1WWFJidUxHSk5oa1lTdHl4US9VQmFuUEx4SmRIUldTZy9PYzlWL3A5VXg4Wkt4YVFtTTNQYzZnNjIxbW1xOExpQ2xxWHRaUVh3WVh1OUJMMmk2dXdtQjRwaUEzN2FEbEpnbDFTY2tHMlA2eWtIdWJzcGxsTkxZWlRscUpZeUxaQVJSZExTZmxsblpDUnlTa0VST3cwN0hNWVdrQ1VLOTRkWVNvNkpBa01lNmxIMi9sMmhFKzhGRlh2emw2OGFoeWNCaVM1YkxxYVdqK2ZkRlFwYS9VL0QraEZZZDRTNXFFd1dIU0dkK3hqS3Z6QVdPaTFoTm9ZUWVjM3VXaTB0SWZnL01CcVVtYXgxeXNTajNCeFF6MUhOMk9jR3RpWjhtcGovRkN0OURmREpvc1RYcGdNWDBORDd6Yi9jUFJmQWhzdTFQQWpCQldIU1pNamw5Y3E5cExpV1FPUXZGbHJRVnVuQlp3eHUvaGFFdm9abXlFa29paTJjRGluSkt0MUpNektFdVl3OVB1YmJwN3JESHgvU1NDejBWT2ZpN1JJREhZeVpmdzYvSi9BWEtkTVp5ZUt4OGJTcmk3VmhxMHhxbWFldWNZdFR4bWs3VHRBMnlMWGdkdUdFV3B3RkFlbzJNRGxRYmlHU3NQVHlhbmtkZk9LUzRJWGFzdkxMN3h2b2dBdzE0T2h5NlJCMk5ibTU4akVPUTQwT2VuNVVWR3B5R1JFOEpqL0dJT252QmhjY3AwckVKUTBaS2tkUGJTOTFseDNoSDBjeUlrQ3RpMFhtVC9qcUU5cm1jTzhURWJna21zdlFJYU9ZMXExUjRXWlJWOHE0TGMvSE9UU0FsVFJKWW9BSmJsNmhrQmlvTEZpY2k2Ukd2S0M0WjNuREJFeGxmTkRWUVQ1SVRXT3d1Q3YzTVZVSGpCWUU2ZWtJV2ZNdFRvRHNEeExsM2dMcmd3ZzR1VHcvRk5jZFpZMndZS2dJYXNUbFNKSFlTQWFpeHAwaHlHRXI1QnBjMzhlejVrZmJqS0h4Q2xGTC80ZFh4YkNUODVORHFXckFLVURVU1V5aHZGRThoNDBRVVFzSnkzMlMvUWI4S2JDK2ptN0w0bTVoa0hRVUdTa1IwMFhLb1NKc0RSdmNkclA3enNBcHlrY3Y1akRNMVdjWWNJeldJWkRBVUVzY2hYNk1UcW5GczhXWkU2OHZJU3VvbFUxVkpsOVVPSkYyM3FhOWdUQnU4U2lvd1Mvc2gzVTd0U2JGWGN5M3ZiUGNwUFVmMkpIQkhCVnJxS0dFbWRlc2loTXpPSFNVK1RKMjZrVGlUdThlQVpxYVBVUHpNK3FGb2Q4M3VEZk1Vd1dGeEdsbGNRSEE9PU0wWkhRK21Md1FOZGN2clEiLCJleHAiOjE2MDI5NDYzMTQsInNoYXJkX2lkIjoyMzU4MDExNjcsInBkIjowfQ.b0H_bi2wtIaig6tEqpr8Sz1c4ArKL68IrwgwsEHF6xg";
-            request.AddParameter("text/xml", requestQuery, ParameterType.RequestBody);
-            IRestResponse response = client.Execute(request);
-
-
-            // Cookies
-           // addingCookiesToCookieList(response.Cookies);
-        }
+        
     }
 }
