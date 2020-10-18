@@ -1,0 +1,1348 @@
+
+
+<!DOCTYPE html>
+<html>
+<head><title>
+	Flights to Riga from Oslo-Gardermoen | Norwegian
+</title><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="referrer" content="origin" /><!--IE-->
+    <meta name="referrer" content="strict-origin-when-cross-origin" /><meta name="google" content="notranslate" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" href="/resourceipc/Images/icons/plane_arrival.gif" /><link href="/resourceipc/style-bundle/NasCommon.css?v=zXwadUo475ESR84xoZYgXh2SOLLLuC4mK2nX048esVM1" rel="stylesheet"/>
+
+<link href="/resourceipc/style-bundle/NasControls.css?v=KRmt0PGhHunAdudzF1zuhkB9eDWCBbu_LTFJu-3xjzg1" rel="stylesheet"/>
+
+<script src="/resourceipc/script-bundle/NasCommon.js?v=7Rq0PLyyZ6CXjJ6ytBTl2HzT2QtIuudr2166JZRkMow1"></script>
+
+<link rel="canonical" href="https://www.norwegian.com/uk/ipc/availability/avaday/OsloGardermoen-Riga" />
+<link href="/resourceipc/style-bundle/NasAvaDay.css?v=gIRW9d2gUTF6VYSncYZCfN2rFbL0FwvQ-9mo0PG1lco1" rel="stylesheet"/>
+
+<script src="/resourceipc/script-bundle/AvaDayPostBackFacker.js?v=jr48Q36RM-jd3hbsjQVqW3EDLgkG8VGHlLkt-FFI6Uk1"></script>
+
+<script src="/resourceipc/script-bundle/CoBrandedCreditCard.js?v=lIvw-Dn69INGEjXfrO8MA9xdnecj-dyvJLEiZD6bE-M1"></script>
+
+<meta data-server="NAS-PORTALB20" 
+data-language-branch="" 
+data-time="09:44:19.805" 
+data-current-ui-culture="en-GB" 
+data-current-culture="en-GB" 
+data-build-number="87.0.0.6992" 
+data-created-at="13/10/2020 09:22:16"  
+charset="UTF-8"/> 
+<link href="/resourceipc/style-bundle/NasCommon.css?v=zXwadUo475ESR84xoZYgXh2SOLLLuC4mK2nX048esVM1" rel="stylesheet"/>
+<link href="/resourceipc/style-bundle/NasControls.css?v=KRmt0PGhHunAdudzF1zuhkB9eDWCBbu_LTFJu-3xjzg1" rel="stylesheet"/>
+<link href="/resourceipc/style-bundle/brand.css?v=DxH8WbYJQSFeqRCyZrvstKaMxcypdOh1AnY_F595Hwg1" rel="stylesheet"/>
+<link href="/resourceipc/style-bundle/technical.css?v=_AJHisoR_mUzUh2JA-mZshSv4yvsYHSLz-G9pBISIHI1" rel="stylesheet"/>
+
+        <!-- favicon -->
+        <link rel="shortcut icon" type="image/png" href="/resourceipc/Content/img/favicon.png">
+        <script src="/resourceipc/script-bundle/NasCommon.js?v=7Rq0PLyyZ6CXjJ6ytBTl2HzT2QtIuudr2166JZRkMow1"></script>
+<script src="/resourceipc/script-bundle/plainPageController.js?v=Bv0UAtfOb9eu6nXWVSRfijYsAOpBgWjJPHa16Um0U6M1"></script>
+<meta name="ROBOTS" CONTENT="all" />
+<!-- GTM Global -->
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({'pageContentType': 'ipc','pageLanguage': 'en-GB','pageCountry': 'GB','pageName': 'Reservation','domain': 'uk','cookieConsentEnabled': '1'});
+</script>
+<!-- End GTM Global -->
+<!-- GTM Event -->
+<script>
+dataLayer.push({'event': 'AvaDay','currencyCode': 'GBP','exchangeRate': '12.11770','purchaseProcess': 'BOOKING','tripType': 'OneWay','adults': '1','children': '0','infants': '0','flightOriginId': 'OSL','flightDestId': 'RIX','flightOutboundDate': '2020-11-02','flightInboundDate': '2020-11-02','ecommerce': {'detail': {'products': [{'id': 'ADT','name': 'ADT','category': 'FLIGHT','quantity': '1','dimension39': 'OSL','dimension40': 'RIX','dimension42': '0'}]}}});
+</script>
+<!-- GTM Event end-->
+<!-- GTM Main -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+f.parentNode.insertBefore(j,f);})
+(window,document,'script','dataLayer','GTM-NVL4JDR');</script>
+<!-- End GTM Main -->
+<script src="https://cdn.optimizely.com/public/17202440929/s/booking.js" language="javascript" type="text/javascript" ></script><link href="/resourceipc/style-bundle/jquery-ui-styles-bundle" type="text/css" rel="stylesheet" /></head>
+<body>
+    <!-- GTM Main (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVL4JDR" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
+<!-- End GTM Main (noscript) -->
+
+    <main>
+        <img src="/resourceipc/Content/Styles/sprite.css.svg?v=87.0.0.6992" style="display: none;" alt=""/>
+        
+<script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function (event) {
+        var accessibilityCookie = 'OVERRIDE_DISPLAY_MODE=UseMobile';
+        if (document.cookie.indexOf(accessibilityCookie) > -1) {
+            var elem = document.getElementById('accessibility-info');
+            if (elem.parentNode) {
+                elem.parentNode.removeChild(elem);
+            }
+        }
+    });
+</script>
+<script type="text/javascript">
+    function rememberPrevisitedPage() {
+
+        try {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("POST", "~/ipc/IpPages/PrevisitedPageHandler.ashx");
+            xmlhttp.setRequestHeader("Content-Type", "application/json");
+            xmlhttp.send(JSON.stringify({ url: window.location.pathname + window.location.search }));
+        } catch (e) {
+            //Do nothing
+        }
+
+        return true;
+    }
+</script>
+<div class="">
+    <header id="responsivePageHeader" class="page-header">
+
+        <div class="page-header__content">
+                <a id="pageHeaderMenuLink" onclick="return NasPlainMenuController.toggleMenu()" aria-expanded="false" class="page-header__menu-link" href="">
+                    <div class="page-header__menu-link__icon">
+                        <i id="menuIconHamburger" class="icon-hamburger">
+                            <span class="icon-hamburger__bar  icon-hamburger__bar--first"></span>
+                            <span class="icon-hamburger__bar"></span>
+                            <span class="icon-hamburger__bar  icon-hamburger__bar--last"></span>
+                        </i>
+                    </div>
+                    Menu
+                </a>
+
+            <span id="accessibility-info" class="nodisplay">Using assistive devices, such as screen readers or speech recognition software? Please enable accessibility mode to get an optimal experience.</span>
+
+            <div class="page-header__content-right">
+                <!-- Search -->
+
+
+
+                <!-- Sign in/up -->
+                    <div class="page-header__profile ">
+                                <a class="page-header__profile__trigger" onclick="return rememberPrevisitedPage()" href="/uk/start/mytravels/#login">Sign in</a>
+                    </div>
+
+                <a href="/uk/"
+                   class="page-header__branding"
+                   title="Home">
+                        <img src="/resourceipc/Content/img/ident.svg" class="page-header__logo  page-header__logo--md" alt="Norwegian Air Shuttle ASA" />
+                                            <img src="/resourceipc/Content/img/ident-mobile.svg" class="page-header__logo" alt="Norwegian Air Shuttle ASA" />
+                </a>
+            </div>
+        </div>
+
+        <!-- The menu -->
+        <nav id="pageHeaderMenu" class="page-header__menu">
+            <div class="grid">
+                <div class="col-6--md">
+                    <ul class="is-hidden--md">
+                                <li>
+                                    <a id="loginLink" class="page-header__link" onclick="return rememberPrevisitedPage()" href="/uk/start/mytravels/#login">
+                                        Sign in
+                                    </a>
+                                </li>
+                    </ul>
+                    <ul class="is-visible--md">
+                        
+        <li>
+            <a href="/uk/" class="page-header__link">Home</a>
+        </li>
+        <li>
+            <a href="/uk/booking/" class="page-header__link">Booking</a>
+        </li>
+        <li>
+            <a href="/uk/destinations/" class="page-header__link">Destinations</a>
+        </li>
+        <li>
+            <a href="/uk/low-fare-calendar/" class="page-header__link">Low Fare Calendar</a>
+        </li>
+        <li>
+            <a href="/uk/route-map/" class="page-header__link">Route map</a>
+        </li>
+        <li>
+            <a href="/uk/flight-status/" class="page-header__link">Flight status</a>
+        </li>
+        <li>
+            <a href="/uk/my-travels/" class="page-header__link">My Travels</a>
+        </li>
+        <li>
+            <a href="/uk/corporate/" class="page-header__link">Corporate</a>
+        </li>
+        <li>
+            <a href="/uk/norwegian-reward/" class="page-header__link">Norwegian Reward</a>
+        </li>
+        <li>
+            <a href="/uk/help-contact/" class="page-header__link">Help and contact</a>
+        </li>
+
+                    </ul>
+                    <ul class="is-hidden--md">
+                        
+        <li>
+            <a href="/uk/" class="page-header__link">Home</a>
+        </li>
+        <li>
+            <a href="/uk/booking/" class="page-header__link">Booking</a>
+        </li>
+        <li>
+            <a href="/uk/destinations/" class="page-header__link">Destinations</a>
+        </li>
+        <li>
+            <a href="/uk/route-map/" class="page-header__link">Route map</a>
+        </li>
+        <li>
+            <a href="/uk/travel-info/" class="page-header__link">Travelling with us</a>
+        </li>
+        <li>
+            <a href="/uk/flight-status/" class="page-header__link">Flight status</a>
+        </li>
+        <li>
+            <a href="/uk/my-travels/" class="page-header__link">My Travels</a>
+        </li>
+        <li>
+            <a href="/uk/help-contact/" class="page-header__link">Help and contact</a>
+        </li>
+
+                    </ul>
+                    <!-- Search -->
+                </div>
+            </div>
+        </nav>
+    </header>
+</div>
+
+        <div class="nas-components">
+            <form name="aspnetForm" method="post" action="/uk/ipc/availability/avaday?AdultCount=1&amp;A_City=RIX&amp;D_City=OSL&amp;D_Month=202011&amp;D_Day=02&amp;IncludeTransit=true&amp;TripType=1" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZOi81SPvjt9bYchpsLoVh_CLtnFqZeDYdQRfDP0BtzhL1kytZQ2&amp;t=637290829350350503" type="text/javascript"></script>
+
+
+<script src="/resourceipc/script-bundle/jquery-core-bundle" type="text/javascript"></script>
+<script src="/resourceipc/script-bundle/jquery-migrate-bundle" type="text/javascript"></script>
+<script src="/resourceipc/script-bundle/jquery-ui-bundle" type="text/javascript"></script><script src="/resourceipc/script-bundle/AvaDayGrouping.js?v=uK9ZF8WnMHDAjT4EzlSWkT85stCoFfAjIl_rfqNAVnk1"></script>
+
+<script src="/resourceipc/script-bundle/ui.datepicker-en.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+ $(document).ready(
+	                                                        function()
+	                                                            { $('#ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_txtDepartureDate').datepicker({firstDay: 1, 
+                                                                        minDate: new Date(2020, 10 - 1, 18), 
+                                                                        showOn: 'button', 
+                                                                        buttonImage: '/resourceipc/Images/calendar/cal.gif', 
+                                                                        buttonImageOnly: true, 
+                                                                        showMonthAfterYear: false,
+                                                                        dateFormat: 'yymmdd', 
+                                                                        onSelect: null,                                                                         
+                                                                    }, $.datepicker.regional['en']);
+                                                                    
+                                                                }
+                                                            );
+
+                     $(document).ready(
+	                                                        function()
+	                                                            { $('#ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_txtReturnDate').datepicker({firstDay: 1, 
+                                                                        minDate: new Date(2020, 10 - 1, 18), 
+                                                                        showOn: 'button', 
+                                                                        buttonImage: '/resourceipc/Images/calendar/cal.gif', 
+                                                                        buttonImageOnly: true, 
+                                                                        showMonthAfterYear: false,
+                                                                        dateFormat: 'yymmdd', 
+                                                                        onSelect: null,                                                                         
+                                                                    }, $.datepicker.regional['en']);
+                                                                    $('#ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_txtReturnDate').datepicker('disable');
+                                                                }
+                                                            );
+
+                    //]]>
+</script>
+<script src="/resourceipc/script-bundle/ExternalContentUtils.js?v=P5Bkj7NS-x4s_kOyLTEMqMko1y0yvj2WN5YeCO0IENs1"></script>
+
+<script src="../../../resourceipc/Scripts/WebForms/MsAjax/MicrosoftAjax.js" type="text/javascript"></script>
+<script src="../../../resourceipc/Scripts/WebForms/MsAjax/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
+<script src="/resourceipc/script-bundle/MsAjaxJs?v=8_XLqu3gEnWfk6xkeakLv2Jwv3v1zKP9MXl3TXH5TG81" type="text/javascript"></script>
+<script src="/resourceipc/script-bundle/WebFormsJs?v=a_xwc60Y9YtaLMtoNsRBz_8KBA0dEfHvNjqkCm1Fw3U1" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9A1563A3" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+                <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$aspScriptManager', 'aspnetForm', ['tctl00$MainContent$ipcAvaDay$upnlSearchBar','','tctl00$MainContent$ipcAvaDay$upnlMsg','','fctl00$MainContent$ipcAvaDay$upnlHelp','','fctl00$MainContent$ipcAvaDay$upnlResultOutbound','','fctl00$MainContent$ipcAvaDay$upnlResultInbound','','tctl00$MainContent$ipcAvaDay$upnlButtonBar','','tctl00$MainContent$ipcAvaDay$upnlResSelection','','tctl00$MainContent$ipcAvaDay$upnHtf',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+                
+    <div id="ctl00_MainContent_ipcMaintenanceMessage_mainDiv" class="maintenancebox">
+    <div id="ctl00_MainContent_ipcMaintenanceMessage_bodyDiv" class="maintenanceboxbody maintenanceboxalert">
+            <span id="ctl00_MainContent_ipcMaintenanceMessage_lblMaintenanceMessage"></span>&nbsp;&nbsp;&nbsp;<a id="ctl00_MainContent_ipcMaintenanceMessage_lnkReadMore" href="https://www.norwegian.com/uk/flight-status/updates/?promo_name=NAS-corona-topbar&amp;promo_id=info-hub-from-topbar&amp;promo_creative=UK-top-bar">COVID-19 latest updates - important information about entry requirements, bookings and cancelled flights</a>
+    </div>
+</div>
+<br />
+  
+    
+<div class="pagebodyboxbanner">
+    <div class="pagetitlebox">
+        <h1>
+            Flights to Riga from Oslo-Gardermoen
+        </h1>
+        <h2>
+            Select departure and start reservation
+        </h2>
+    </div>
+    <table class="layouttable" cellpadding="0" cellspacing="0">
+        <tr>
+            <td class="contentbox quicksearch">
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div id="ctl00_MainContent_ipcAvaDay_upnlSearchBar">
+	
+                        
+<div class="searchbarcontainer">
+    <table cellpadding="0" cellspacing="0" border="0" class="bookingsearchbartable">
+        <tr class="top">
+            <td class="searchbarcell filterstartcell startcell">
+                <span id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_lblFrom">Fly from</span>
+            </td>
+            <td class="searchbarcell filterendcell">
+                <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlDepartueCity" onchange="if(this.value==&quot;&quot;){return false};setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlDepartueCity\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlDepartueCity" class="select">
+		<option value="">- Select departure -</option>
+		<option value="LGW">London-Gatwick (LGW)</option>
+		<option value="MAN">Manchester (MAN)</option>
+		<option value="EDI">Edinburgh (EDI)</option>
+		<option value="">------------------------------</option>
+		<option value="">--- Albania ---</option>
+		<option value="TIA">Tirana (TIA)</option>
+		<option value="">--- Argentina ---</option>
+		<option value="BUE">Buenos Aire/All airports (BUE)</option>
+		<option value="EZE">Buenos Aires-Ezeiza (EZE)</option>
+		<option value="">--- Austria ---</option>
+		<option value="VIE">Vienna (VIE)</option>
+		<option value="">--- Bosnia-Herzegovina ---</option>
+		<option value="SJJ">Sarajevo (SJJ)</option>
+		<option value="">--- Brasil ---</option>
+		<option value="GIG">Rio de Janeiro (GIG)</option>
+		<option value="">--- Bulgaria ---</option>
+		<option value="BOJ">Bourgas (BOJ)</option>
+		<option value="VAR">Varna (VAR)</option>
+		<option value="">--- Croatia ---</option>
+		<option value="DBV">Dubrovnik (DBV)</option>
+		<option value="PUY">Pula (PUY)</option>
+		<option value="SPU">Split (SPU)</option>
+		<option value="ZAG">Zagreb (ZAG)</option>
+		<option value="">--- Cyprus ---</option>
+		<option value="LCA">Cyprus-Larnaca (LCA)</option>
+		<option value="">--- Czech Republic ---</option>
+		<option value="PRG">Prague (PRG)</option>
+		<option value="">--- Denmark ---</option>
+		<option value="AAL">Aalborg (AAL)</option>
+		<option value="BLL">Billund (BLL)</option>
+		<option value="CPH">Copenhagen (CPH)</option>
+		<option value="">--- Estonia ---</option>
+		<option value="TLL">Tallinn (TLL)</option>
+		<option value="">--- Finland ---</option>
+		<option value="HEL">Helsinki (HEL)</option>
+		<option value="IVL">Ivalo (IVL)</option>
+		<option value="KTT">Kittil&#228; (KTT)</option>
+		<option value="OUL">Oulu (OUL)</option>
+		<option value="RVN">Rovaniemi (RVN)</option>
+		<option value="VAA">Vaasa (VAA)</option>
+		<option value="">--- France ---</option>
+		<option value="BOD">Bordeaux (BOD)</option>
+		<option value="AJA">Corsica-Ajaccio (AJA)</option>
+		<option value="BIA">Corsica-Bastia (BIA)</option>
+		<option value="MPL">Montpellier (MPL)</option>
+		<option value="NCE">Nice (NCE)</option>
+		<option value="PARALL">Paris-All airports (PARALL)</option>
+		<option value="CDG">Paris-Charles De Gaulle (CDG)</option>
+		<option value="ORY">Paris-Orly (ORY)</option>
+		<option value="">--- Germany ---</option>
+		<option value="BERALL">Berlin-All airports (BERALL)</option>
+		<option value="BER">Berlin-Brandenburg (BER)</option>
+		<option value="SXF">Berlin-Sch&#246;nefeld (SXF)</option>
+		<option value="DUS">D&#252;sseldorf (DUS)</option>
+		<option value="HAM">Hamburg (HAM)</option>
+		<option value="MUC">Munich (MUC)</option>
+		<option value="">--- Greece ---</option>
+		<option value="ATH">Athens (ATH)</option>
+		<option value="CFU">Corfu (CFU)</option>
+		<option value="CHQ">Crete-Chania (CHQ)</option>
+		<option value="HER">Crete-Heraklion (HER)</option>
+		<option value="EFL">Kefalonia (EFL)</option>
+		<option value="KGS">Kos (KGS)</option>
+		<option value="PVK">Lefkada Preveza (PVK)</option>
+		<option value="RHO">Rhodes (RHO)</option>
+		<option value="JTR">Santorini (JTR)</option>
+		<option value="">--- Hungary ---</option>
+		<option value="BUD">Budapest (BUD)</option>
+		<option value="">--- Iceland ---</option>
+		<option value="KEF">Reykjavik (KEF)</option>
+		<option value="">--- Ireland ---</option>
+		<option value="DUB">Dublin (DUB)</option>
+		<option value="">--- Israel ---</option>
+		<option value="TLV">Tel Aviv (TLV)</option>
+		<option value="">--- Italy ---</option>
+		<option value="MXP">Milan (MXP)</option>
+		<option value="NAP">Naples (NAP)</option>
+		<option value="PSA">Pisa-Tuscany (PSA)</option>
+		<option value="FCO">Rome-Fiumicino (FCO)</option>
+		<option value="OLB">Sardinia-Olbia (OLB)</option>
+		<option value="CTA">Sicily-Catania (CTA)</option>
+		<option value="PMO">Sicily-Palermo (PMO)</option>
+		<option value="TSF">Treviso (TSF)</option>
+		<option value="VCE">Venice (VCE)</option>
+		<option value="VRN">Verona (VRN)</option>
+		<option value="">--- Jordan ---</option>
+		<option value="AMM">Amman-Queen Alia (AMM)</option>
+		<option value="">--- Kosovo ---</option>
+		<option value="PRN">Pristina (PRN)</option>
+		<option value="">--- Latvia ---</option>
+		<option value="RIX">Riga (RIX)</option>
+		<option value="">--- Lithuania ---</option>
+		<option value="KUN">Kaunas (KUN)</option>
+		<option value="PLQ">Palanga/Klaipeda (PLQ)</option>
+		<option value="VNO">Vilnius (VNO)</option>
+		<option value="">--- Malta ---</option>
+		<option value="MLA">Malta (MLA)</option>
+		<option value="">--- Montenegro ---</option>
+		<option value="TIV">Montenegro-Tivat (TIV)</option>
+		<option value="">--- Morocco ---</option>
+		<option value="AGA">Agadir (AGA)</option>
+		<option value="RAK">Marrakech (RAK)</option>
+		<option value="">--- Netherlands ---</option>
+		<option value="AMS">Amsterdam (AMS)</option>
+		<option value="">--- Norway ---</option>
+		<option value="AES">&#197;lesund (AES)</option>
+		<option value="ALF">Alta (ALF)</option>
+		<option value="BGO">Bergen (BGO)</option>
+		<option value="BOO">Bod&#248; (BOO)</option>
+		<option value="EVE">Harstad/Narvik (EVE)</option>
+		<option value="HAU">Haugesund (HAU)</option>
+		<option value="KKN">Kirkenes (KKN)</option>
+		<option value="KRS">Kristiansand (KRS)</option>
+		<option value="MOL">Molde (MOL)</option>
+		<option value="OSLALL">Oslo-All airports (OSLALL)</option>
+		<option selected="selected" value="OSL">Oslo-Gardermoen (OSL)</option>
+		<option value="TRF">Oslo-Sandefjord/Torp (TRF)</option>
+		<option value="SVG">Stavanger (SVG)</option>
+		<option value="TOS">Troms&#248; (TOS)</option>
+		<option value="TRD">Trondheim (TRD)</option>
+		<option value="">--- Norway-Svalbard ---</option>
+		<option value="LYR">Longyearbyen-Svalbard (LYR)</option>
+		<option value="">--- Poland ---</option>
+		<option value="GDN">Gdansk (GDN)</option>
+		<option value="KRK">Krakow (KRK)</option>
+		<option value="POZ">Poznan (POZ)</option>
+		<option value="SZZ">Szczecin (SZZ)</option>
+		<option value="WAW">Warsaw (WAW)</option>
+		<option value="WRO">Wroclaw (WRO)</option>
+		<option value="">--- Portugal ---</option>
+		<option value="FAO">Algarve-Faro (FAO)</option>
+		<option value="LIS">Lisbon (LIS)</option>
+		<option value="FNC">Madeira (FNC)</option>
+		<option value="">--- Serbia ---</option>
+		<option value="BEG">Belgrade (BEG)</option>
+		<option value="">--- Spain ---</option>
+		<option value="ALC">Alicante (ALC)</option>
+		<option value="ALCALL">Alicante-All airports (ALCALL)</option>
+		<option value="BCN">Barcelona (BCN)</option>
+		<option value="BIO">Bilbao (BIO)</option>
+		<option value="FUE">Fuerteventura (FUE)</option>
+		<option value="LPA">Gran Canaria (LPA)</option>
+		<option value="IBZ">Ibiza (IBZ)</option>
+		<option value="ACE">Lanzarote (ACE)</option>
+		<option value="MAD">Madrid (MAD)</option>
+		<option value="PMI">Majorca-Palma (PMI)</option>
+		<option value="AGP">Malaga (AGP)</option>
+		<option value="RMU">Murcia-Corvera (RMU)</option>
+		<option value="TCIALL">Tenerife-All airports (TCIALL)</option>
+		<option value="TFN">Tenerife-North (TFN)</option>
+		<option value="TFS">Tenerife-South (TFS)</option>
+		<option value="">--- Sweden ---</option>
+		<option value="GOT">Gothenburg-Landvetter (GOT)</option>
+		<option value="KRN">Kiruna (KRN)</option>
+		<option value="LLA">Lulea (LLA)</option>
+		<option value="MMX">Malmo (MMX)</option>
+		<option value="OSD">Ostersund &#197;re (OSD)</option>
+		<option value="ARN">Stockholm-Arlanda (ARN)</option>
+		<option value="UME">Ume&#229; (UME)</option>
+		<option value="VBY">Visby-Gotland (VBY)</option>
+		<option value="">--- Switzerland ---</option>
+		<option value="GVA">Geneva (GVA)</option>
+		<option value="">--- Thailand ---</option>
+		<option value="BKK">Bangkok (BKK)</option>
+		<option value="KBV">Krabi (KBV)</option>
+		<option value="">--- Turkey ---</option>
+		<option value="AYT">Antalya (AYT)</option>
+		<option value="">--- United Kingdom ---</option>
+		<option value="EDI">Edinburgh (EDI)</option>
+		<option value="LON">London-All airports (LON)</option>
+		<option value="LGW">London-Gatwick (LGW)</option>
+		<option value="MAN">Manchester (MAN)</option>
+		<option value="">--- USA ---</option>
+		<option value="AUS">Austin (AUS)</option>
+		<option value="BOS">Boston (BOS)</option>
+		<option value="BOSALL">Boston-All airports (BOSALL)</option>
+		<option value="ORD">Chicago (ORD)</option>
+		<option value="DEN">Denver (DEN)</option>
+		<option value="FLLALL">Florida/All airports (FLLALL)</option>
+		<option value="MIA">Florida/Miami (MIA)</option>
+		<option value="FLL">Florida-Fort Lauderdale/Miami (FLL)</option>
+		<option value="MCO">Florida-Orlando (MCO)</option>
+		<option value="TPA">Florida-Tampa (TPA)</option>
+		<option value="LAX">Los Angeles (LAX)</option>
+		<option value="NYCALL">New York-All airports (NYCALL)</option>
+		<option value="JFK">New York-JFK (JFK)</option>
+		<option value="SFOALL">San Francisco/All airports (SFOALL)</option>
+		<option value="SFO">San Francisco/SFO (SFO)</option>
+		<option value="SEA">Seattle (SEA)</option>
+
+	</select>
+            </td>
+            <td class="searchbarcell filterstartcell filterendcell filter2cell">
+                <span class="checkboxaligned"><input id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_chkTripType" type="checkbox" name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$chkTripType" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$chkTripType\&#39;,\&#39;\&#39;)&#39;, 0)" /><label for="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_chkTripType">Round trip</label></span>
+            </td>
+            <td class="searchbarcell filterstartcell">
+                <span id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_lblDepartue">Outbound</span>
+            </td>
+            <td class="searchbarcell filterendcell">
+                <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlDepartureDay" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlDepartureDay\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlDepartureDay">
+		<option value="01">01</option>
+		<option selected="selected" value="02">02</option>
+		<option value="03">03</option>
+		<option value="04">04</option>
+		<option value="05">05</option>
+		<option value="06">06</option>
+		<option value="07">07</option>
+		<option value="08">08</option>
+		<option value="09">09</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19">19</option>
+		<option value="20">20</option>
+		<option value="21">21</option>
+		<option value="22">22</option>
+		<option value="23">23</option>
+		<option value="24">24</option>
+		<option value="25">25</option>
+		<option value="26">26</option>
+		<option value="27">27</option>
+		<option value="28">28</option>
+		<option value="29">29</option>
+		<option value="30">30</option>
+
+	</select>
+                <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlDepartureMonth" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlDepartureMonth\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlDepartureMonth">
+		<option value="202010">Oct 2020</option>
+		<option selected="selected" value="202011">Nov 2020</option>
+		<option value="202012">Dec 2020</option>
+		<option value="202101">Jan 2021</option>
+		<option value="202102">Feb 2021</option>
+		<option value="202103">Mar 2021</option>
+		<option value="202104">Apr 2021</option>
+		<option value="202105">May 2021</option>
+		<option value="202106">Jun 2021</option>
+		<option value="202107">Jul 2021</option>
+		<option value="202108">Aug 2021</option>
+		<option value="202109">Sep 2021</option>
+		<option value="202110">Oct 2021</option>
+
+	</select>
+                <input name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$txtDepartureDate" type="text" value="20201102" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$txtDepartureDate\&#39;,\&#39;\&#39;)&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_txtDepartureDate" class="HiddenControl" />
+            </td>
+            
+                <td class="searchbarcell filter2cell filterstartcell">
+                    <span id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_lblAdults">Adults</span>
+                </td>
+                <td class="searchbarcell filter2cell">
+                    <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlAdultCount" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlAdultCount\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlAdultCount">
+		<option selected="selected" value="1">1 </option>
+		<option value="2">2 </option>
+		<option value="3">3 </option>
+		<option value="4">4 </option>
+		<option value="5">5 </option>
+		<option value="6">6 </option>
+		<option value="7">7 </option>
+		<option value="8">8 </option>
+		<option value="9">9 </option>
+
+	</select>
+                </td>
+            
+            
+                <td class="searchbarcell filter2cell">
+                    <span id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_lblChildren">Children (2-11 years)</span>
+                </td>
+                <td class="searchbarcell filter2cell filterendcell">
+                    <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlChildCount" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlChildCount\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlChildCount">
+		<option selected="selected" value="0">0 </option>
+		<option value="1">1 </option>
+		<option value="2">2 </option>
+		<option value="3">3 </option>
+		<option value="4">4 </option>
+		<option value="5">5 </option>
+		<option value="6">6 </option>
+		<option value="7">7 </option>
+		<option value="8">8 </option>
+
+	</select>
+                </td>
+            
+            
+            <td class="searchbarcell filterstartcell">
+                <span id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_lblCurrency">Currency</span>
+            </td>
+            <td class="searchbarcell filterendcell endcell">
+                <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlCurrency" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlCurrency\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlCurrency">
+		<option selected="selected" value="GBP">GBP</option>
+		<option value="EUR">EUR</option>
+
+	</select>
+            </td>
+        </tr>
+        <tr class="bottom">
+            <td class="searchbarcell filterstartcell startcell">
+                <span id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_lblTo">Fly to</span>
+            </td>
+            <td class="searchbarcell filterendcell">
+                <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlArrivalCity" onchange="if(this.value==&quot;&quot;){return false};setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlArrivalCity\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlArrivalCity" class="select">
+		<option value="">- Select destination -</option>
+		<option value="LGW">London-Gatwick (LGW)</option>
+		<option value="MAN">Manchester (MAN)</option>
+		<option value="EDI">Edinburgh (EDI)</option>
+		<option value="">------------------------------</option>
+		<option value="">--- Albania ---</option>
+		<option value="TIA">Tirana (TIA)</option>
+		<option value="">--- Argentina ---</option>
+		<option value="BUE">Buenos Aire/All airports (BUE)</option>
+		<option value="EZE">Buenos Aires-Ezeiza (EZE)</option>
+		<option value="">--- Austria ---</option>
+		<option value="VIE">Vienna (VIE)</option>
+		<option value="">--- Bosnia-Herzegovina ---</option>
+		<option value="SJJ">Sarajevo (SJJ)</option>
+		<option value="">--- Brasil ---</option>
+		<option value="GIG">Rio de Janeiro (GIG)</option>
+		<option value="">--- Bulgaria ---</option>
+		<option value="BOJ">Bourgas (BOJ)</option>
+		<option value="VAR">Varna (VAR)</option>
+		<option value="">--- Croatia ---</option>
+		<option value="DBV">Dubrovnik (DBV)</option>
+		<option value="PUY">Pula (PUY)</option>
+		<option value="SPU">Split (SPU)</option>
+		<option value="ZAG">Zagreb (ZAG)</option>
+		<option value="">--- Cyprus ---</option>
+		<option value="LCA">Cyprus-Larnaca (LCA)</option>
+		<option value="">--- Czech Republic ---</option>
+		<option value="PRG">Prague (PRG)</option>
+		<option value="">--- Denmark ---</option>
+		<option value="AAL">Aalborg (AAL)</option>
+		<option value="BLL">Billund (BLL)</option>
+		<option value="CPH">Copenhagen (CPH)</option>
+		<option value="">--- Estonia ---</option>
+		<option value="TLL">Tallinn (TLL)</option>
+		<option value="">--- Finland ---</option>
+		<option value="HEL">Helsinki (HEL)</option>
+		<option value="IVL">Ivalo (IVL)</option>
+		<option value="KTT">Kittil&#228; (KTT)</option>
+		<option value="OUL">Oulu (OUL)</option>
+		<option value="RVN">Rovaniemi (RVN)</option>
+		<option value="VAA">Vaasa (VAA)</option>
+		<option value="">--- France ---</option>
+		<option value="BOD">Bordeaux (BOD)</option>
+		<option value="AJA">Corsica-Ajaccio (AJA)</option>
+		<option value="BIA">Corsica-Bastia (BIA)</option>
+		<option value="MPL">Montpellier (MPL)</option>
+		<option value="NCE">Nice (NCE)</option>
+		<option value="PARALL">Paris-All airports (PARALL)</option>
+		<option value="CDG">Paris-Charles De Gaulle (CDG)</option>
+		<option value="ORY">Paris-Orly (ORY)</option>
+		<option value="">--- Germany ---</option>
+		<option value="BERALL">Berlin-All airports (BERALL)</option>
+		<option value="BER">Berlin-Brandenburg (BER)</option>
+		<option value="SXF">Berlin-Sch&#246;nefeld (SXF)</option>
+		<option value="DUS">D&#252;sseldorf (DUS)</option>
+		<option value="HAM">Hamburg (HAM)</option>
+		<option value="MUC">Munich (MUC)</option>
+		<option value="">--- Greece ---</option>
+		<option value="ATH">Athens (ATH)</option>
+		<option value="CFU">Corfu (CFU)</option>
+		<option value="CHQ">Crete-Chania (CHQ)</option>
+		<option value="HER">Crete-Heraklion (HER)</option>
+		<option value="EFL">Kefalonia (EFL)</option>
+		<option value="KGS">Kos (KGS)</option>
+		<option value="PVK">Lefkada Preveza (PVK)</option>
+		<option value="RHO">Rhodes (RHO)</option>
+		<option value="JTR">Santorini (JTR)</option>
+		<option value="">--- Hungary ---</option>
+		<option value="BUD">Budapest (BUD)</option>
+		<option value="">--- Iceland ---</option>
+		<option value="KEF">Reykjavik (KEF)</option>
+		<option value="">--- Ireland ---</option>
+		<option value="DUB">Dublin (DUB)</option>
+		<option value="">--- Israel ---</option>
+		<option value="TLV">Tel Aviv (TLV)</option>
+		<option value="">--- Italy ---</option>
+		<option value="MXP">Milan (MXP)</option>
+		<option value="NAP">Naples (NAP)</option>
+		<option value="PSA">Pisa-Tuscany (PSA)</option>
+		<option value="FCO">Rome-Fiumicino (FCO)</option>
+		<option value="OLB">Sardinia-Olbia (OLB)</option>
+		<option value="CTA">Sicily-Catania (CTA)</option>
+		<option value="PMO">Sicily-Palermo (PMO)</option>
+		<option value="TSF">Treviso (TSF)</option>
+		<option value="VCE">Venice (VCE)</option>
+		<option value="VRN">Verona (VRN)</option>
+		<option value="">--- Jordan ---</option>
+		<option value="AMM">Amman-Queen Alia (AMM)</option>
+		<option value="">--- Kosovo ---</option>
+		<option value="PRN">Pristina (PRN)</option>
+		<option value="">--- Latvia ---</option>
+		<option selected="selected" value="RIX">Riga (RIX)</option>
+		<option value="">--- Lithuania ---</option>
+		<option value="KUN">Kaunas (KUN)</option>
+		<option value="PLQ">Palanga/Klaipeda (PLQ)</option>
+		<option value="VNO">Vilnius (VNO)</option>
+		<option value="">--- Malta ---</option>
+		<option value="MLA">Malta (MLA)</option>
+		<option value="">--- Montenegro ---</option>
+		<option value="TIV">Montenegro-Tivat (TIV)</option>
+		<option value="">--- Morocco ---</option>
+		<option value="AGA">Agadir (AGA)</option>
+		<option value="RAK">Marrakech (RAK)</option>
+		<option value="">--- Netherlands ---</option>
+		<option value="AMS">Amsterdam (AMS)</option>
+		<option value="">--- Norway ---</option>
+		<option value="AES">&#197;lesund (AES)</option>
+		<option value="ALF">Alta (ALF)</option>
+		<option value="BGO">Bergen (BGO)</option>
+		<option value="BOO">Bod&#248; (BOO)</option>
+		<option value="EVE">Harstad/Narvik (EVE)</option>
+		<option value="HAU">Haugesund (HAU)</option>
+		<option value="KKN">Kirkenes (KKN)</option>
+		<option value="KRS">Kristiansand (KRS)</option>
+		<option value="MOL">Molde (MOL)</option>
+		<option value="SVG">Stavanger (SVG)</option>
+		<option value="TOS">Troms&#248; (TOS)</option>
+		<option value="TRD">Trondheim (TRD)</option>
+		<option value="">--- Norway-Svalbard ---</option>
+		<option value="LYR">Longyearbyen-Svalbard (LYR)</option>
+		<option value="">--- Poland ---</option>
+		<option value="GDN">Gdansk (GDN)</option>
+		<option value="KRK">Krakow (KRK)</option>
+		<option value="POZ">Poznan (POZ)</option>
+		<option value="SZZ">Szczecin (SZZ)</option>
+		<option value="WAW">Warsaw (WAW)</option>
+		<option value="WRO">Wroclaw (WRO)</option>
+		<option value="">--- Portugal ---</option>
+		<option value="FAO">Algarve-Faro (FAO)</option>
+		<option value="LIS">Lisbon (LIS)</option>
+		<option value="FNC">Madeira (FNC)</option>
+		<option value="">--- Serbia ---</option>
+		<option value="BEG">Belgrade (BEG)</option>
+		<option value="">--- Spain ---</option>
+		<option value="ALC">Alicante (ALC)</option>
+		<option value="ALCALL">Alicante-All airports (ALCALL)</option>
+		<option value="BCN">Barcelona (BCN)</option>
+		<option value="BIO">Bilbao (BIO)</option>
+		<option value="FUE">Fuerteventura (FUE)</option>
+		<option value="LPA">Gran Canaria (LPA)</option>
+		<option value="IBZ">Ibiza (IBZ)</option>
+		<option value="ACE">Lanzarote (ACE)</option>
+		<option value="MAD">Madrid (MAD)</option>
+		<option value="PMI">Majorca-Palma (PMI)</option>
+		<option value="AGP">Malaga (AGP)</option>
+		<option value="RMU">Murcia-Corvera (RMU)</option>
+		<option value="TCIALL">Tenerife-All airports (TCIALL)</option>
+		<option value="TFS">Tenerife-South (TFS)</option>
+		<option value="">--- Sweden ---</option>
+		<option value="GOT">Gothenburg-Landvetter (GOT)</option>
+		<option value="KRN">Kiruna (KRN)</option>
+		<option value="LLA">Lulea (LLA)</option>
+		<option value="MMX">Malmo (MMX)</option>
+		<option value="OSD">Ostersund &#197;re (OSD)</option>
+		<option value="ARN">Stockholm-Arlanda (ARN)</option>
+		<option value="UME">Ume&#229; (UME)</option>
+		<option value="VBY">Visby-Gotland (VBY)</option>
+		<option value="">--- Switzerland ---</option>
+		<option value="GVA">Geneva (GVA)</option>
+		<option value="">--- Thailand ---</option>
+		<option value="BKK">Bangkok (BKK)</option>
+		<option value="KBV">Krabi (KBV)</option>
+		<option value="">--- Turkey ---</option>
+		<option value="AYT">Antalya (AYT)</option>
+		<option value="">--- United Kingdom ---</option>
+		<option value="EDI">Edinburgh (EDI)</option>
+		<option value="LON">London-All airports (LON)</option>
+		<option value="LGW">London-Gatwick (LGW)</option>
+		<option value="MAN">Manchester (MAN)</option>
+		<option value="">--- USA ---</option>
+		<option value="AUS">Austin (AUS)</option>
+		<option value="BOS">Boston (BOS)</option>
+		<option value="BOSALL">Boston-All airports (BOSALL)</option>
+		<option value="ORD">Chicago (ORD)</option>
+		<option value="DEN">Denver (DEN)</option>
+		<option value="FLLALL">Florida/All airports (FLLALL)</option>
+		<option value="MIA">Florida/Miami (MIA)</option>
+		<option value="FLL">Florida-Fort Lauderdale/Miami (FLL)</option>
+		<option value="MCO">Florida-Orlando (MCO)</option>
+		<option value="TPA">Florida-Tampa (TPA)</option>
+		<option value="LAX">Los Angeles (LAX)</option>
+		<option value="NYCALL">New York-All airports (NYCALL)</option>
+		<option value="JFK">New York-JFK (JFK)</option>
+		<option value="SFOALL">San Francisco/All airports (SFOALL)</option>
+		<option value="SFO">San Francisco/SFO (SFO)</option>
+		<option value="SEA">Seattle (SEA)</option>
+
+	</select>
+            </td>
+            <td class="searchbarcell filterstartcell filterendcell filter2cell">
+                <span class="checkboxaligned"><input id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_chkRouteTripType" type="checkbox" name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$chkRouteTripType" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$chkRouteTripType\&#39;,\&#39;\&#39;)&#39;, 0)" /><label for="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_chkRouteTripType">Show direct only</label></span>
+            </td>
+            <td class="searchbarcell filterstartcell">
+                <div id="returnLabel">
+                    <span id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_lblReturn">Return</span>
+                </div>
+            </td>
+            <td class="searchbarcell filterendcell">
+                <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlReturnDay" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlReturnDay\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlReturnDay" disabled="disabled">
+		<option value="01">01</option>
+		<option selected="selected" value="02">02</option>
+		<option value="03">03</option>
+		<option value="04">04</option>
+		<option value="05">05</option>
+		<option value="06">06</option>
+		<option value="07">07</option>
+		<option value="08">08</option>
+		<option value="09">09</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19">19</option>
+		<option value="20">20</option>
+		<option value="21">21</option>
+		<option value="22">22</option>
+		<option value="23">23</option>
+		<option value="24">24</option>
+		<option value="25">25</option>
+		<option value="26">26</option>
+		<option value="27">27</option>
+		<option value="28">28</option>
+		<option value="29">29</option>
+		<option value="30">30</option>
+
+	</select>
+                <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlReturnMonth" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlReturnMonth\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlReturnMonth" disabled="disabled">
+		<option value="202010">Oct 2020</option>
+		<option selected="selected" value="202011">Nov 2020</option>
+		<option value="202012">Dec 2020</option>
+		<option value="202101">Jan 2021</option>
+		<option value="202102">Feb 2021</option>
+		<option value="202103">Mar 2021</option>
+		<option value="202104">Apr 2021</option>
+		<option value="202105">May 2021</option>
+		<option value="202106">Jun 2021</option>
+		<option value="202107">Jul 2021</option>
+		<option value="202108">Aug 2021</option>
+		<option value="202109">Sep 2021</option>
+		<option value="202110">Oct 2021</option>
+
+	</select>
+                <input name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$txtReturnDate" type="text" value="20201102" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$txtReturnDate\&#39;,\&#39;\&#39;)&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_txtReturnDate" class="HiddenControl" />
+            </td>
+            
+                <td class="searchbarcell filter2cell filterstartcell">
+                    &nbsp;
+                </td>
+                <td class="searchbarcell filter2cell">
+                    &nbsp;
+                </td>
+            
+            
+                <td class="searchbarcell filter2cell">
+                    <span id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_lblInfants">Infants</span>
+                </td>
+                <td class="searchbarcell filterendcell filter2cell">
+                    <select name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlInfantCount" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$ddlInfantCount\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlInfantCount">
+		<option selected="selected" value="0">0 </option>
+		<option value="1">1 </option>
+
+	</select>
+                </td>
+            
+            
+            <td class="searchbarcell filterstartcell">
+                &nbsp;
+            </td>
+            <td class="searchbarcell filterendcell endcell">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td class="filterarrow startarrowcell" colspan="2">
+                <img src="/resourceipc/Images/Misc/filterarrow.gif" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_Img1" class="arrow" alt=" " width="40" height="9" />
+            </td>
+            <td class="filterarrow" colspan="1">
+                <img src="/resourceipc/Images/Misc/filterarrow_alt.gif" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_Img2" class="arrow" alt=" " width="40" height="9" />
+            </td>
+            <td class="filterarrow" colspan="2">
+                <img src="/resourceipc/Images/Misc/filterarrow.gif" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_Img3" class="arrow" alt=" " width="40" height="9" />
+            </td>
+            <td class="filterarrow" colspan="4">
+                <img src="/resourceipc/Images/Misc/filterarrow_alt.gif" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_Img4" class="arrow" alt=" " width="40" height="9" />
+            </td>
+            <td class="filterarrow endarrowcell" colspan="2">
+                <img src="/resourceipc/Images/Misc/filterarrow.gif" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_Img5" class="arrow" alt=" " width="40" height="9" />
+            </td>
+        </tr>
+    </table>
+    <input type="hidden" name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$hdnAgreementCodeFK" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_hdnAgreementCodeFK" />
+    <input type="hidden" name="ctl00$MainContent$ipcAvaDay$ipcAvaDaySearchBar$hdnIsSsrNeeded" id="ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_hdnIsSsrNeeded" value="false" />
+</div>
+<script type="text/javascript">
+    if (selectCityIds != undefined) {
+        selectCityIds.push('ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlDepartueCity');
+        selectCityIds.push('ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_ddlArrivalCity');
+        UpdateCountryItemsFont();
+    }
+</script>
+
+                        
+                    
+</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td class="contentbox">
+                <table class="layouttable" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td class="maincontentbox">
+                            <div style="display:inline" id="ctl00_MainContent_ipcAvaDay_upnlMsg">
+	
+                                    
+                                
+</div>
+                            <div class="sectioncontainer">
+                                <div id="ctl00_MainContent_ipcAvaDay_upnlHelp">
+	
+                                        
+                                    
+</div>
+                                <div id="ctl00_MainContent_ipcAvaDay_upnlResultOutbound">
+	
+                                        <div id="avaday-outbound-result">
+                                            <div class="sectioncontainer fareselect3">
+<div class="sectionboxavaday avadayoutbound">
+	<div class="headerbox">
+		<table class="layouttable" cellpadding="0" cellspacing="0" border="0">
+		<tr><td class="layoutcell" align="left" rowspan="2">
+<img src="/resourceipc/Images/Icons/plane_outbound.gif" alt="" align="top" />&nbsp;<span class="emphasize">Outbound</span> :&nbsp;&nbsp;Oslo-Gardermoen - Riga</td><td nowrap="nowrap" class="layoutcell" align="right">&nbsp;Monday&nbsp;2. Nov 2020</td></tr>
+		</table>
+	</div>
+<div class="bodybox">
+<div class="body">
+<table class="avadaytable" border="0" cellpadding="0" cellspacing="0">
+<colgroup class="avadaycolgroup"><col class="col1"/><col class="col2"/><col class="col3"/><col class="col4"/><col class="col5"/><col class="col6"/><col class="col7"/><col class="col8"/><col class="col9"/></colgroup>
+<thead>
+	<tr class="rowspacer"><td class="startcell">&nbsp;</td><td class="">&nbsp;</td><td class="">&nbsp;</td><td class="">&nbsp;</td><td class="">&nbsp;</td><td class="">&nbsp;</td><td class="">&nbsp;</td><td class="">&nbsp;</td><td class="endcell">&nbsp;</td></tr><tr>
+<th colspan="3" class="firstrowheadercell"><div class="statictooltipclick ToolTipSHCompare pricetable"  onclick="
+dataLayer.push(
+{'event': 'trackEvent','eventCategory': 'Select Flight','eventAction': 'Compare fare types','eventLabel': ''}
+)
+">Compare fare types</div></th><th class="standardfareheadercell tooltipclick endcell" colspan="6"><span class="currencyinfo">All fares per person in GBP</span></th></tr>
+	<tr><th class="departureheadercell" rowspan="1"><div class="content">Departure</div></th><th class="arrivalheadercell" rowspan="1"><div class="content">Arrival</div></th><th class="detailsheadercell" rowspan="1"><div class="content">Details</div></th><td onclick="
+dataLayer.push(
+{'event': 'trackEvent','eventCategory': 'Select Flight','eventAction': 'Compare fare types','eventLabel': ''}
+)
+" class="statictooltipclick ToolTipSHCompare select1headercell standardlowfareheadercell " colspan="2"><div class="infoicon">LowFare </div></td><td onclick="
+dataLayer.push(
+{'event': 'trackEvent','eventCategory': 'Select Flight','eventAction': 'Compare fare types','eventLabel': ''}
+)
+" class="statictooltipclick ToolTipSHCompare select1headercell standardlowfareheadercell " colspan="2"><div class="infoicon">LowFare+ </div></td><td onclick="
+dataLayer.push(
+{'event': 'trackEvent','eventCategory': 'Select Flight','eventAction': 'Compare fare types','eventLabel': ''}
+)
+" class="statictooltipclick ToolTipSHCompare select2headercell standardflexheadercell endcell" colspan="2"><div class="infoicon">Flex </div></td></tr>
+</thead>
+<tbody>
+	<tr class="oddrow rowinfo1 "><td class="depdest" title="Flight DY1072"><div class="content emphasize">10:40</div></td><td class="arrdest"><div class="content emphasize">13:10</div></td><td class="duration"><div class="content">Direct</div></td><td class="inputselect standardlowfare"><div class="content" title=""><input type="radio" id="FlightSelectOutboundStandardLowFare0" name="FlightSelectOutbound" class="radio-ajax" value="0|DY1072OSLRIX|1|0"  /></div><input type="hidden" name="hdnFlightSelectOutboundStandardLowFare0" value="0|DY1072OSLRIX|1|0"/></td><td class="fareselect standardlowfare"><div class="content" title=""><label class="label fewseatsleftfare" title="GBP">30.10</label></div><input type="hidden" name="hdnFlightSelectOutboundStandardLowFare0" value="0|DY1072OSLRIX|1|0"/></td><td class="inputselect standardlowfareplus"><div class="content" title=""><input type="radio" id="FlightSelectOutboundStandardLowFarePlus0" name="FlightSelectOutbound" class="radio-ajax" value="0|DY1072OSLRIX|9|0"  /></div><input type="hidden" name="hdnFlightSelectOutboundStandardLowFarePlus0" value="0|DY1072OSLRIX|9|0"/></td><td class="fareselect standardlowfareplus"><div class="content" title=""><label class="label fewseatsleftfare" title="GBP">55.10</label></div><input type="hidden" name="hdnFlightSelectOutboundStandardLowFarePlus0" value="0|DY1072OSLRIX|9|0"/></td><td class="inputselect standardflex"><div class="content" title=""><input type="radio" id="FlightSelectOutboundStandardFlex0" name="FlightSelectOutbound" class="radio-ajax" value="0|DY1072OSLRIX|2|0"  /></div><input type="hidden" name="hdnFlightSelectOutboundStandardFlex0" value="0|DY1072OSLRIX|2|0"/></td><td class="fareselect standardflex endcell"><div class="content" title=""><label class="label seatsokfare" title="GBP">203.30</label></div><input type="hidden" name="hdnFlightSelectOutboundStandardFlex0" value="0|DY1072OSLRIX|2|0"/></td></tr>
+	<tr class="oddrow rowinfo2"><td class="depdest" title="Flight DY1072"><div class="content">Oslo-Gardermoen</div></td><td class="arrdest"><div class="content">Riga</div></td><td class="duration"><div class="content">Duration: 1h 30m</div></td><td class="inputselect avafareinfo standardlowfare" rowspan="2" colspan="2"><div class="fewseatslefttext">Only 3 seats with this price</div><input type="hidden" name="hdnFlightSelectOutboundStandardLowFare0" value="0|DY1072OSLRIX|1|0"/></td><td class="inputselect avafareinfo standardlowfareplus" rowspan="2" colspan="2"><div class="fewseatslefttext">Only 3 seats with this price</div><input type="hidden" name="hdnFlightSelectOutboundStandardLowFarePlus0" value="0|DY1072OSLRIX|9|0"/></td><td class="inputselect avafareinfo standardflex endcell" rowspan="2" colspan="2">&nbsp;<input type="hidden" name="hdnFlightSelectOutboundStandardFlex0" value="0|DY1072OSLRIX|2|0"/></td></tr>
+	<tr class="oddrow lastrow"><td colspan="3" class="routeinfotextcell routeinfoimagecell"><div class="content"><ul class="flightinfolist"><li class="tooltipclick TooltipBoxWifi" title="Click for more info">WiFi included (*)</li><li class="tooltipclick ToolTipBoxCarbonEmissionFootprint" title="Click for more info">31% less CO₂ emissions than industry average</li><li class="plaintext">Operated by Norwegian Air Sweden</li></ul></div></td></tr>
+</tbody>
+</table>
+</div>
+</div>
+	<div class="footerbox">
+		<table class="layouttable" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td nowrap="nowrap" class="layoutcell">&nbsp;</td>
+			<td nowrap="nowrap" class="layoutcell" align="right"><div class="navlinkcontainer"><span class="navlink prevdaylink" onclick="
+dataLayer.push(
+{'event': 'trackEvent','eventCategory': 'Select Flight','eventAction': 'Show previous/next day','eventLabel': 'previous'}
+)
+">&lt; &lt; Show previous day</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="navlink nextdaylink" onclick="
+dataLayer.push(
+{'event': 'trackEvent','eventCategory': 'Select Flight','eventAction': 'Show previous/next day','eventLabel': 'next'}
+)
+">Show next day &gt; &gt;</span></div></td>
+		</tr>
+		</table>
+	</div>
+</div>
+</div>
+
+<a id="ctl00_MainContent_ipcAvaDay_ipcResultOutbound_lbtPostBackFaker" class="HiddenControl postbackfaker" href="javascript:__doPostBack(&#39;ctl00$MainContent$ipcAvaDay$ipcResultOutbound$lbtPostBackFaker&#39;,&#39;&#39;)"></a>
+                                        </div>
+                                        
+                                    
+</div>
+                                <div id="ctl00_MainContent_ipcAvaDay_upnlResultInbound">
+	
+                                        <div id="avaday-inbound-result">
+                                            
+                                        </div>
+                                    
+</div>
+                                
+                                <div id="ctl00_MainContent_ipcAvaDay_ipcAvaSsrInput_pnlAvaCodesBox" class="sectionboxssrinput">
+	
+    <div class="bodybox">
+        <div class="body">
+            <span class="checkbox"><input id="ctl00_MainContent_ipcAvaDay_ipcAvaSsrInput_chbSsrNeeded" type="checkbox" name="ctl00$MainContent$ipcAvaDay$ipcAvaSsrInput$chbSsrNeeded" onclick="NasCommon.ToggleValue(&#39;ctl00_MainContent_ipcAvaDay_ipcAvaDaySearchBar_hdnIsSsrNeeded&#39;);" /><label for="ctl00_MainContent_ipcAvaDay_ipcAvaSsrInput_chbSsrNeeded">I require special assistance for my flight.</label></span><br />
+            <div class="ssrinputinfo"><a href="#" onclick="InfoWindow = window.open('/uk/infourl/infoidspecialneeds/', 'InfoWindow', 'width=700,height=750,resizable=1,scrollbars=1,location=0,menubar=0,status=0,toolbar=0'); InfoWindow.focus(); return false;">Read&nbsp;more&nbsp;&gt;&gt;</a></div>
+        </div>
+    </div>
+
+</div>
+
+                                <div id="ctl00_MainContent_ipcAvaDay_upnlButtonBar">
+	
+                                        
+
+                                        <div id="ctl00_MainContent_ipcAvaDay_pnlButtonBar" class="sectioncontainer">
+		
+                                            <div class="buttonbarbox">
+                                                <table class="buttonbartable" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td class="left">
+                                                            <a onclick="
+dataLayer.push(
+{&#39;event&#39;: &#39;trackEvent&#39;,&#39;eventCategory&#39;: &#39;Select Flight&#39;,&#39;eventAction&#39;: &#39;Fare Calendar&#39;,&#39;eventLabel&#39;: &#39;&#39;}
+)
+;" id="ctl00_MainContent_ipcAvaDay_lbtFareCal" class="buttonalternative" href="javascript:__doPostBack(&#39;ctl00$MainContent$ipcAvaDay$lbtFareCal&#39;,&#39;&#39;)">Fare Calendar</a>
+                                                        </td>
+                                                        <td style="width:25%">
+                                                        </td>
+                                                        <td class="right">
+                                                            
+                                                        </td>
+                                                        <td class="right">
+                                                             
+                                                            
+                                                            <a id="ctl00_MainContent_ipcAvaDay_lbtContinue" disabled="disabled" class="buttondisabled">Start reservation</a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </div>
+                                            <div id="ctl00_MainContent_ipcAvaDay_ipcAvaCodesInput_pnlAvaCodesBox" class="sectionboxavacodes" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_MainContent_ipcAvaDay_ipcAvaCodesInput_btnCampaignCodeHidden&#39;)">
+			
+    <div class="bodybox">
+        <div class="body">
+            
+            
+            <span id="ctl00_MainContent_ipcAvaDay_ipcAvaCodesInput_lblCampaignCode" class="formlabel">Do you have a campaign code?</span>&nbsp;
+                <input name="ctl00$MainContent$ipcAvaDay$ipcAvaCodesInput$txtCampaignCode" type="text" id="ctl00_MainContent_ipcAvaDay_ipcAvaCodesInput_txtCampaignCode" class="textbox" />&nbsp; <span class="linkbuttoncontainer">
+                    <a id="ctl00_MainContent_ipcAvaDay_ipcAvaCodesInput_lbtCampaignCode" class="buttoncampign" href="javascript:__doPostBack(&#39;ctl00$MainContent$ipcAvaDay$ipcAvaCodesInput$lbtCampaignCode&#39;,&#39;&#39;)">Show campaign prices</a>
+                </span>
+                <div style="display: none">
+                    <input type="submit" name="ctl00$MainContent$ipcAvaDay$ipcAvaCodesInput$btnCampaignCodeHidden" value="" id="ctl00_MainContent_ipcAvaDay_ipcAvaCodesInput_btnCampaignCodeHidden" />
+                </div>
+            
+        </div>
+    </div>
+
+		</div>
+                                          
+                                        
+	</div>
+                                    
+</div>
+                                
+                            </div>
+                        </td>
+                        <td class="infocontentbox">
+                            <div id="ctl00_MainContent_ipcAvaDay_upnlResSelection">
+	
+                                    
+<div class="selectioncontainer">
+    <div class="selectionbox">
+        <div class="title">
+            <span id="ctl00_MainContent_ipcAvaDay_ipcResMakeSelection_lblTitle">My Travel Selections</span>
+        </div>
+        <div class="info">Select the flight of your choice from the list on the left</div>
+    </div>
+</div>
+
+<div class="sectionseparator"></div>
+
+
+
+
+    <div class="selectioncontainer">
+        <div class="selectionbox">
+            <div class="title">
+                <span id="ctl00_MainContent_ipcAvaDay_ipcResMakeSelection_lblConditionsTitle">Terms</span>
+            </div>
+            <table class="selectiontable" cellspacing="0" cellpadding="0" border="0"><tr><td colspan="2" class="headercell">Our fares</td></tr><tr><td colspan="2" class="leftcell">Fares are subject to availability and are not guaranteed until purchase.<br /><a class=inlinelink  href="#" onclick="InfoWindow = window.open('/uk/infourl/infoidreadcompleteterms/', 'InfoWindow', 'width=700,height=750,resizable=1,scrollbars=1,location=0,menubar=0,status=0,toolbar=0'); InfoWindow.focus(); return false;">See fare details</a></td></tr><tr><td colspan="2" class="headercell">Optional service charges</td></tr><tr><td colspan="2" class="leftcell">Additional <a class=inlinelink  href="#" onclick="InfoWindow = window.open('/uk/infourl/infoidbaggagecharges/', 'InfoWindow', 'width=700,height=750,resizable=1,scrollbars=1,location=0,menubar=0,status=0,toolbar=0'); InfoWindow.focus(); return false;">charges for baggage</a> and other <a class=inlinelink  href="#" onclick="InfoWindow = window.open('/uk/infourl/infoidadditionalfeespricelist/', 'InfoWindow', 'width=700,height=750,resizable=1,scrollbars=1,location=0,menubar=0,status=0,toolbar=0'); InfoWindow.focus(); return false;">optional services</a> may apply.<br/><br/>Credit cards may attract <a class=inlinelink  href="#" onclick="InfoWindow = window.open('/uk/infourl/infoidcreditcardpayment/', 'InfoWindow', 'width=700,height=750,resizable=1,scrollbars=1,location=0,menubar=0,status=0,toolbar=0'); InfoWindow.focus(); return false;">additional fees</a>.</td></tr></table>
+        </div>
+    </div>
+
+
+
+
+<a id="ctl00_MainContent_ipcAvaDay_ipcResMakeSelection_lbtPostBackFaker" class="HiddenControl" href="javascript:__doPostBack(&#39;ctl00$MainContent$ipcAvaDay$ipcResMakeSelection$lbtPostBackFaker&#39;,&#39;&#39;)"></a>
+
+
+                                
+</div>
+                        </td>
+                    </tr>
+                </table>
+                
+            </td>
+        </tr>
+    </table>
+</div>
+<div id="ctl00_MainContent_ipcAvaDay_ipcAjaxUpdateProgress_ajaxUpdateProgress" style="display:none;">
+	
+        <div class="updateprogressbox"><div class="content"><img class="spinner" alt="Update in progress..." src="/resourceipc/Images/progressspinner.gif" width="32" height="32" /><span class="text">Update in progress...</span></div></div>
+    
+</div>
+
+
+<span id="ctl00_MainContent_ipcAvaDay_upnHtf">
+        <input type="hidden" name="ctl00$MainContent$ipcAvaDay$htfProcessId" id="ctl00_MainContent_ipcAvaDay_htfProcessId" value="11352" />
+        <input type="hidden" name="ctl00$MainContent$ipcAvaDay$hifRouteIdOutbound" id="ctl00_MainContent_ipcAvaDay_hifRouteIdOutbound" />
+        <input type="hidden" name="ctl00$MainContent$ipcAvaDay$hifAvaDayColumnTypeOutbound" id="ctl00_MainContent_ipcAvaDay_hifAvaDayColumnTypeOutbound" value="0" />
+        <input type="hidden" name="ctl00$MainContent$ipcAvaDay$hifAvaDayColumnTypeInbound" id="ctl00_MainContent_ipcAvaDay_hifAvaDayColumnTypeInbound" value="0" />
+        <input type="hidden" name="ctl00$MainContent$ipcAvaDay$hifRouteIdInbound" id="ctl00_MainContent_ipcAvaDay_hifRouteIdInbound" />
+        <input type="hidden" name="ctl00$MainContent$ipcAvaDay$hifShowAll" id="ctl00_MainContent_ipcAvaDay_hifShowAll" value="False" />
+        <input type="hidden" name="ctl00$MainContent$ipcAvaDay$hifBundleOutbound" id="ctl00_MainContent_ipcAvaDay_hifBundleOutbound" value="False" />
+        <input type="hidden" name="ctl00$MainContent$ipcAvaDay$hifBundleInbound" id="ctl00_MainContent_ipcAvaDay_hifBundleInbound" value="False" />
+    </span>
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+$('body').on('click', '.tooltipclick', function (e) {
+                /* CONFIG */
+                var xOffset = 90;
+                var yOffset = 30;
+                /* END CONFIG */
+                var $this = $(this);
+                var elementClass = $this.attr('class');
+                var tooltipHtmlBoxId = "";
+                var tooltipHtmlBoxIdList = new Array("TooltipBoxBoeing787","TooltipBoxBoeing737","TooltipBoxWifi","TooltipBoxTransit","TooltipBoxStandardFlex","TooltipBoxStandardLowFare","TooltipBoxNightstop","TooltipBoxFewFareSeats","TooltipBoxOneFareSeat","TooltipBoxStopover","TooltipBoxTransitStopover","TooltipBoxPremiumLowFare","TooltipBoxPremiumFlex","TooltipBoxBundle","ToolTipQuickSearch","ToolTipSHCompare","ToolTipLHCompare","ToolTipAircraftTypesLH","ToolTipAircraftTypesSH","TooltipBoxTransitArgentina","ToolTipBoxCarbonEmissionFootprint","ToolTipBoxCarbonEmissionFootprintWetlease","ToolTipBoxCarbonEmissionFootprintAsiaRouteSpecific","ToolTipBoxCarbonEmissionUnfavourableFootprint");
+                for (var i = 0; i < tooltipHtmlBoxIdList.length; i++) {
+                    var currTooltipHtmlBoxId = "#" + tooltipHtmlBoxIdList[i];
+                    if (elementClass.indexOf(tooltipHtmlBoxIdList[i]) != -1) {
+                        tooltipHtmlBoxId = currTooltipHtmlBoxId;
+                    }
+                    else {
+                        $(currTooltipHtmlBoxId).hide();
+                    }
+                }
+                $(tooltipHtmlBoxId)
+   			        .css("top", (e.pageY - xOffset) + "px")
+			        .css("left", (e.pageX + yOffset) + "px")
+                    .toggle("fast");
+                $(tooltipHtmlBoxId).click(function () {
+                    $(tooltipHtmlBoxId).hide();
+                });
+            });
+$('body').on('click', '.statictooltipclick', function (e) {
+                /* CONFIG */
+                var xOffset = -90;
+                var yOffset = -30;
+                /* END CONFIG */
+                var $this = $(this);
+                var elementClass = $this.attr('class');
+                var tooltipHtmlBoxId = "";
+                var tooltipHtmlBoxIdList = new Array("TooltipBoxBoeing787","TooltipBoxBoeing737","TooltipBoxWifi","TooltipBoxTransit","TooltipBoxStandardFlex","TooltipBoxStandardLowFare","TooltipBoxNightstop","TooltipBoxFewFareSeats","TooltipBoxOneFareSeat","TooltipBoxStopover","TooltipBoxTransitStopover","TooltipBoxPremiumLowFare","TooltipBoxPremiumFlex","TooltipBoxBundle","ToolTipQuickSearch","ToolTipSHCompare","ToolTipLHCompare","ToolTipAircraftTypesLH","ToolTipAircraftTypesSH","TooltipBoxTransitArgentina","ToolTipBoxCarbonEmissionFootprint","ToolTipBoxCarbonEmissionFootprintWetlease","ToolTipBoxCarbonEmissionFootprintAsiaRouteSpecific","ToolTipBoxCarbonEmissionUnfavourableFootprint");
+                for (var i = 0; i < tooltipHtmlBoxIdList.length; i++) {
+                    var currTooltipHtmlBoxId = "#" + tooltipHtmlBoxIdList[i];
+                    if (elementClass.indexOf(tooltipHtmlBoxIdList[i]) != -1) {
+                        tooltipHtmlBoxId = currTooltipHtmlBoxId;
+                    }
+                    else {
+                        $(currTooltipHtmlBoxId).hide();
+                    }
+                }
+
+                var leftPos =  $(window).width()/2 -400;
+                $(tooltipHtmlBoxId)
+                    .css("top", (e.pageY - 50) + "px")
+	                .css("left", leftPos + "px")
+                    .toggle("fast");
+
+                $(tooltipHtmlBoxId).click(function () {
+                    $(tooltipHtmlBoxId).hide();
+                });
+
+                var contentContainer = $(tooltipHtmlBoxId).find('.epicontent');
+                var containerContainerHtml = contentContainer.html().trim();
+                if (!containerContainerHtml)
+                {
+                    var loadingImage = $('<img>');
+                    loadingImage.attr('src', '/Images/progressspinner.gif');
+                    contentContainer.html(loadingImage);
+
+                    var timeoutSeconds = $('#hdnHttpTimeoutSeconds').val();
+                    var htmlUrl = $(tooltipHtmlBoxId).attr('data-url');
+                    var externalContentRetriever = new ExternalContentRetriever();
+
+                    externalContentRetriever.getPage(htmlUrl, timeoutSeconds, 
+                        function(data) {
+                            contentContainer.html(data);
+                        }, 
+                        function(message) {
+                             contentContainer.html(message);
+                        });
+                }
+            });});
+//]]>
+</script>
+
+<div id="TooltipBoxBoeing737" class="tooltiphtmlbox"><div class="header">737<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">Boeing 737!</div></div><div id="TooltipBoxBoeing787" class="tooltiphtmlbox"><div class="header">The 787 Dreamliner<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">Enjoy the smooth and fresh flight of a 787 Dreamliner - the most modern aircraft in the world!</div></div><div id="TooltipBoxWifi" class="tooltiphtmlbox"><div class="header">Free WiFi on flight<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">This route has free wireless internet access. Use it to surf and read e-mail with your PC, mobile phone or tablet.</div><div class="para">(*) We are currently rolling out WiFi on more and more planes, but depending on the traffic flow, some flights may not have WiFi available.</div></div><div id="TooltipBoxTransit" class="tooltiphtmlbox"><div class="header">Transit route<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">Norwegian brings both you and your baggage through to your final destination.</div><div class="para">If you are travelling from abroad to a domestic destination, remember customs clearance of baggage.</div></div><div id="TooltipBoxTransitArgentina" class="tooltiphtmlbox"><div class="header">Transit route<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">If you're flying via Buenos Aires on an international-domestic or domestic-international connection, you'll need to collect your baggage at the first airport, arrange ground transport between the airports and check in again.</div></div><div id="ToolTipBoxCarbonEmissionFootprint" class="tooltiphtmlbox"><div class="header">CO₂ calculator<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">We’ve made it easy for you to compare your CO₂ emissions for your Norwegian flight with the industry average. Our aircraft fleet is one of the most fuel-efficient in the world and since 2008, we have reduced our emissions per passenger kilometre by 30 percent. Our calculator is based on the official methodology of the United Nations’ International Civil Aviation Organization (ICAO), the International Council of Clean Transportation (ICCT) and our own, actual emissions.</div></div><div id="ToolTipBoxCarbonEmissionFootprintWetlease" class="tooltiphtmlbox"><div class="header">CO₂ calculator<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">We’ve made it easy for you to compare your CO₂ emissions for your Norwegian flights with the industry average. Our aircraft fleet is one of the most fuel-efficient in the world, which also means less CO₂ emissions. However, on this chosen flight, we can’t provide you with an accurate CO₂ comparison. The flight is operated by another carrier and we only have data from our own aircraft.</div></div><div id="ToolTipBoxCarbonEmissionFootprintAsiaRouteSpecific" class="tooltiphtmlbox"><div class="header">CO₂ calculator<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">We’ve made it easy for you to compare your CO₂ emissions for your Norwegian flight with the industry average. Our aircraft fleet is one of the most fuel-efficient in the world, but on some routes, like this one, our carbon emissions calculator shows an unfavourable result. The emissions calculator assumes that industry average aircraft will have a high amount of cargo on board on all routes to/from Asia, which lowers the CO₂ allocated to passengers. This is however not a realistic assumption for our routes to and from Thailand.</div></div><div id="ToolTipBoxCarbonEmissionUnfavourableFootprint" class="tooltiphtmlbox"><div class="header">CO₂ calculator<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">We’ve made it easy for you to compare your CO₂ emissions for your Norwegian flights with the industry average. Our aircraft fleet is one of the most fuel-efficient in the world, which also means less CO₂ emissions. However, on this chosen flight, we can’t provide you with an accurate CO₂ comparison.</div></div><div id="TooltipBoxNightstop" class="tooltiphtmlbox"><div class="header">Route with overnight stop<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">Please note that this trip has transit flight the following day.</div></div><div id="TooltipBoxStopover" class="tooltiphtmlbox"><div class="header">Intermediate stop<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">Flights with an intermediate stop does not include change of aircraft.</div></div><div id="TooltipBoxTransitStopover" class="tooltiphtmlbox"><div class="header">Route with transit and intermediate stop<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">Flights with an intermediate stop does not include change of aircraft. There are no disembarking, just boarding of new passengers.</div></div><div id="ToolTipQuickSearch" class="tooltiphtmlbox"><div class="header">Quick search format samples:<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="para">15jun bgo osl +3 /2 /um</div></div><div id="ToolTipSHCompare" class="wide tooltiphtmlbox" data-url="/uk/infourl/infoidcomparepricessh/"><div class="header">Compare fare types&nbsp;<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="epicontent"></div></div><div id="ToolTipLHCompare" class="wide tooltiphtmlbox" data-url="/uk/infourl/infoidcomparepriceslh/"><div class="header">Compare fare types&nbsp;<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="epicontent"></div></div><div id="ToolTipAircraftTypesLH" class="wide tooltiphtmlbox" data-url="/uk/infourl/infoidaircrafttypes/"><div class="header">Compare aircraft types&nbsp;<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="epicontent"></div></div><div id="ToolTipAircraftTypesSH" class="wide tooltiphtmlbox" data-url="/uk/infourl/infoidaircrafttypessh/"><div class="header">Compare aircraft types&nbsp;<img src="/resourceipc/Images/Icons/tooltip-close.gif" alt="X" class="close" style="cursor:pointer;" border="0" /></div><div class="epicontent"></div></div>
+<input type="hidden" name="ctl00$MainContent$ipcAvaDay$ipcAvaDayTooltip$hdnHttpTimeoutSeconds" id="hdnHttpTimeoutSeconds" value="15" />
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        AddAvaDayPostbackFackerEvents();
+    });
+</script>
+<input type="hidden" name="ctl00$MainContent$ipcAvaDay$hfOriginDisplayName" id="ctl00_MainContent_ipcAvaDay_hfOriginDisplayName" value="Oslo-Gardermoen" />
+<input type="hidden" name="ctl00$MainContent$ipcAvaDay$hfDestinationDisplayName" id="ctl00_MainContent_ipcAvaDay_hfDestinationDisplayName" value="Riga" />
+<input type="hidden" name="ctl00$MainContent$ipcAvaDay$hfAbandonedBasketMaxItemsInBasket" id="ctl00_MainContent_ipcAvaDay_hfAbandonedBasketMaxItemsInBasket" value="20" />
+<script>
+    window.originDisplayName = document.getElementById('ctl00_MainContent_ipcAvaDay_hfOriginDisplayName');
+    window.destinationDisplayName = document.getElementById('ctl00_MainContent_ipcAvaDay_hfDestinationDisplayName');
+    window.abandonedBasketMaxItemsInBasket = document.getElementById('ctl00_MainContent_ipcAvaDay_hfAbandonedBasketMaxItemsInBasket');
+</script>
+<script src="/resourceipc/script-bundle/abandoned-basket-unshift.js?v=GkdHnBFKRiZZwkg4TiKNlPyIQZHs5ayQ60uJnCLXXo01"></script>
+
+
+                
+                
+                    <div class="cookie-consent__overlay"></div>
+                    <div class="cookie-consent__overlay-item cookie-consent__overlay-message">
+                        <div class="cookie-consent">
+                            <div class="cookie-consent__intro" style="max-height: 90vh; opacity: 1;">
+                                <div class="cookie-consent__header cookie-consent__header--intro">
+                                    <img class="cookie-consent__logo " alt="norwegian logo" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxOTdweCIgaGVpZ2h0PSI0NS41cHgiIHZpZXdCb3g9IjAgMCAxOTcgNDUuNSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTk3IDQ1LjUiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxnPjxnPjxwYXRoIGZpbGw9IiMwMDNENTAiIGQ9Ik0xNzUuNCwzMi4zYy0xNy41LDktMzQuNywxNC41LTQzLDEyLjhjLTcuMy0xLjUtMy43LTExLjUsNi43LTE5LjdsMi4yLDBjLTguMiw2LjktOC44LDE1LjUtMy42LDE2LjJjNS45LDAuNywyMS4xLTIuNSwzNi42LTkuN0wxNzUuNCwzMi4zeiIvPjwvZz48L2c+PGc+PGc+PHBhdGggZmlsbD0iIzAwM0Q1MCIgZD0iTTE5My42LDE5LjljMC41LDAsMSwwLjEsMS40LDAuMmMwLjMsMC4xLDAuNCwwLjEsMC43LDAuM2MwLjEsMCwwLjIsMC4xLDAuMywwLjJjMC4yLDAuMSwwLjEsMC4yLDAuMiwwLjNjMC4xLDAuNC0wLjEsMC43LTAuMywxYy0wLjYsMS0xLjYsMS43LTIuNSwyLjRjLTEsMC44LTIsMS40LTMsMi4xYy0wLjIsMC4xLTAuNCwwLjMtMC42LDAuNGMwLjIsMC4xLDAuMywwLjEsMC41LDAuMmwwLDBjMCwwLDAuMSwwLjEsMC4yLDAuMWMwLjMtMC4xLDAuNS0wLjMsMC44LTAuNGMwLjMtMC4yLDAuNS0wLjIsMC44LTAuMWMwLjIsMC4xLDAuNSwwLjQsMC42LDAuNmMwLjEsMC40LDAuMSwwLjctMC4xLDEuMWMxLjMsMC42LDIuNSwxLjIsMy43LDEuOGMwLjMsMC4yLDAuNiwwLjMsMC45LDAuNWMwLjEsMC4yLTAuMSwwLjQtMC4zLDAuNWMtMC41LDAuMi0wLjksMC42LTEuNCwwLjZjLTAuNS0wLjEtMS0wLjItMS42LTAuNGMtMC44LTAuMi0xLjYtMC40LTIuNC0wLjVjLTAuNi0wLjEtMS4zLTAuMi0xLjktMC40Yy0wLjUtMC4xLTAuOS0wLjItMS40LTAuMmMtMC42LTAuMS0xLjItMC4xLTEuOS0wLjFjLTAuOCwwLTEuNSwwLTIuMy0wLjFjLTEuMiwwLjUtMi4zLDEuMS0zLjcsMS42Yy0wLjksMC4zLTEuNywwLjYtMi42LDAuOWMwLjMsMC40LDAuNywwLjUsMC45LDFjMCwwLjEtMC4xLDAuMS0wLjEsMC4xYy0wLjIsMC4xLTAuMywwLjEtMC41LDAuMmMtMC45LTAuMi0xLjctMC40LTIuNi0wLjdsLTAuMiwwYy0wLjQsMC4xLTEsMC41LTEuNCwwYzAtMC4xLTAuMS0wLjItMC4xLTAuNGMwLTAuMS0wLjEtMC4xLTAuMi0wLjJjLTAuMi0wLjEtMC4zLTAuMS0wLjQtMC4yYy0wLjMtMC4xLTAuNS0wLjItMC44LTAuM2MtMC42LTAuMi0xLjEtMC4zLTEuNi0wLjZjLTAuMS0wLjEtMC4yLTAuMiwwLTAuNGMwLjMtMC4yLDAuOC0wLjQsMS4yLTAuMmMwLjQsMCwwLjksMC4xLDEuMiwwLjFsMCwwYy0wLjUtMC41LTAuOS0xLTEuNC0xLjVjLTAuMS0wLjEtMC4yLTAuMi0wLjItMC40YzAtMC4xLDAuMS0wLjIsMC4yLTAuM2MwLjEtMC4xLDAuMi0wLjEsMC4zLTAuMWMwLjQtMC4yLDAuNS0wLjMsMC44LTAuMmMwLjksMC40LDEuNiwwLjcsMi42LDEuMWMwLjIsMC4xLDAuNCwwLjIsMC42LDAuMmMwLjMtMC4xLDAuNC0wLjIsMC42LTAuM2MwLjEsMCwwLjQtMC4yLDAuNS0wLjNjMC4zLTAuMiwwLjYtMC40LDAuOC0wLjVjMC42LTAuNCwwLjktMC42LDEuNC0wLjljLTAuNy0wLjMtMS41LTAuNy0yLjItMWMtMC44LTAuMi0xLTAuMy0xLjctMC41Yy0wLjUtMC4xLTEuMS0wLjMtMS4xLTAuM2MtMS0wLjItMS4yLTAuMy0yLjEtMC41Yy0wLjQtMC4yLTAuOS0wLjItMS40LTAuNGMwLTAuMSwwLTAuMSwwLTAuMmMwLjEtMC4yLDAuNC0wLjQsMC42LTAuNmMwLjMtMC4yLDAuNS0wLjQsMC45LTAuNWMwLjcsMCwxLjIsMC4xLDIsMC4yYzAuOSwwLjEsMS44LDAuMiwyLjYsMC4zYzEuMSwwLjEsMi40LDAuMiwzLjUsMC40YzAuMSwwLDAuMiwwLjEsMC4zLDBjMC4xLDAuMSwwLjIsMCwwLjMsMC4xYzAuMSwwLDAuMiwwLDAuMywwYzAuNS0wLjQsMS4xLTAuOSwxLjgtMS4xYzAuNCwwLDAuOCwwLjIsMSwwLjVjMS4zLTAuOSwyLjUtMS44LDMuOS0yLjVjMS4zLTAuNywyLjUtMS4yLDMuNS0xLjVjMC43LTAuMiwxLjUtMC4zLDIuMi0wLjRDMTkzLjMsMTkuOSwxOTMuNCwxOS45LDE5My42LDE5LjkiLz48L2c+PC9nPjxnPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xOTQuMywyMC43Yy0wLjYsMC4xLTEsMC4yLTEuNywwLjVjLTAuNiwwLjItMS41LDAuNi0yLjMsMWMtMS4xLDAuNS0yLDEuMS0zLjIsMS44Yy0wLjQsMC4zLTEuMywxLTEuNCwxLjFjLTAuNy0wLjEtMS4zLTAuMS0yLTAuMmwwLjEtMC4xYzAuOS0wLjcsMS42LTEuMiwyLjYtMS43YzAuOC0wLjUsMi4xLTEuMiwzLjEtMS42YzAuOS0wLjQsMS45LTAuNywyLjktMC44QzE5My4yLDIwLjUsMTkzLjgsMjAuNSwxOTQuMywyMC43Ii8+PC9nPjwvZz48Zz48Zz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTgxLjQsMjUuMWMwLjItMC4xLDAuMy0wLjIsMC41LTAuM2MwLjItMC4xLDAuMy0wLjIsMC40LTAuMmMtMC4xLDAuMy0wLjEsMC40LDAsMC43YzAsMC4yLDAuMiwwLjMsMC4yLDAuNGMtMC40LDAuMy0wLjgsMC41LTEuMiwwLjhjLTAuMS0wLjEtMC4yLTAuMi0wLjItMC40Yy0wLjEtMC4zLDAtMC41LDAuMS0wLjhMMTgxLjQsMjUuMXoiLz48L2c+PC9nPjxnPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xODAuNywyOC40Yy0wLjUsMC4zLTEsMC42LTEuNSwwLjhjLTEsMC41LTIuMSwxLjEtMy42LDEuOGMtMC40LDAuMi0wLjgsMC4zLTEuMiwwLjJjLTAuMywwLTAuMywwLTAuNi0wLjFjLTAuNS0wLjUtMS4xLTEuMS0xLjYtMS42Yy0wLjEtMC4xLTAuMi0wLjItMC4yLTAuM2wwLjMtMC4yaDAuMWMwLjgsMC4zLDEuMywwLjYsMi4xLDFjMC4zLDAuMSwwLjYsMC4zLDAuOSwwLjRjMC4zLDAsMC42LTAuMSwwLjktMC4ybDAuMi0wLjFjMC40LTAuMywwLjYtMC40LDAuOC0wLjVjMC44LTAuNSwxLjUtMC45LDIuMy0xLjRsMC4yLTAuMUMxODAuMSwyOC4yLDE4MC4zLDI4LjMsMTgwLjcsMjguNCIvPjwvZz48L2c+PGc+PGc+PGc+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTAsNS40aDUuNXYxLjRjMi43LTIuNCw2LjItMi40LDguNC0xYzIuNCwxLjUsMi40LDMuOCwyLjQsNi40djcuN2gtNS41di02LjFjMC0xLjQsMC4xLTMuMi0xLjMtNC4xQzguOSw5LjIsNy42LDkuMiw2LjgsOS44Yy0xLjQsMS0xLjIsMi4yLTEuMiw0LjN2NS44SDBWNS40eiIvPjwvZz48L2c+PC9nPjxnPjxnPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMi44LDYuMWMtMi4zLDEuMy0zLjUsMy4yLTMuOCw1LjZjLTAuMiwxLjksMC4yLDQuMiwxLjgsNS45YzIuOSwzLDgsMy4xLDEwLjksMi4xYzIuNC0wLjgsNC40LTIuMiw1LjItNS4zYzAuNS0yLDAuMy00LjEtMS02LjFjLTIuNC0zLjUtNy4zLTMuOC05LjMtMy41QzI1LjQsNS4xLDI0LDUuNCwyMi44LDYuMSBNMjcuMiw4LjhjMC45LTAuMiwyLjMsMCwzLjEsMWMwLjgsMC45LDEuMSwyLjMsMSwzLjNjLTAuMSwxLTAuNywyLjEtMS44LDIuN2MtMSwwLjUtMi40LDAuNS0zLjQtMC4yYy0wLjktMC42LTEuNC0xLjctMS41LTIuOGMwLTEsMC4yLTIuMiwxLjItMy4yQzI2LjQsOS4xLDI2LjgsOSwyNy4yLDguOCIvPjwvZz48L2c+PC9nPjxnPjxnPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik02NS42LDEyLjFjMCwwLjMtMC4xLDAuNS0wLjUsMS40bC0yLjEsNi40aC01LjdMNTEuOSw1LjRINThsMS45LDYuMWMwLjMsMS4xLDAuNCwxLjMsMC40LDEuN2MwLTAuMywwLjEtMC42LDAuNC0xLjdsMS45LTYuMWg2bDEuOSw2LjFjMC4zLDEuMSwwLjQsMS4zLDAuNCwxLjdjMC0wLjMsMC4xLTAuNiwwLjQtMS43bDEuOS02LjFoNi4xbC01LjUsMTQuNWgtNS43bC0yLTYuM0M2NS43LDEyLjYsNjUuNywxMi40LDY1LjYsMTIuMSIvPjwvZz48L2c+PC9nPjxnPjxnPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik05Ni40LDcuNmMtMi42LTMtOC0zLjEtMTAuNS0yLjRjLTIuNCwwLjctNC40LDIuMS01LjMsNS4yYy0wLjYsMi4zLTAuNCw0LjUsMSw2LjVjMi42LDMuNyw3LjYsMy41LDEwLDMuMmMxLjgtMC4zLDUuMS0xLjMsNi4zLTQuNWwwLjEtMC4xbC01LjUtMC42Yy0wLjIsMC4yLTAuMywwLjQtMC45LDAuOWMtMC45LDAuNy0yLjksMC42LTMuNywwLjNjLTAuOS0wLjQtMS43LTEuNS0xLjgtMi4yaDEyLjN2LTAuM0M5OC40LDExLjcsOTcuOCw5LjMsOTYuNCw3LjYgTTkyLjYsMTAuOEg4NmMwLjUtMS42LDEuNC0yLjEsMi41LTIuM0M4OS43LDguMyw5MS43LDguNiw5Mi42LDEwLjgiLz48L2c+PC9nPjwvZz48Zz48Zz48Zz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTAxLjUsMjAuN2MwLjEsMS4xLDAuNCwxLjgsMC41LDIuMWMxLjQsMi41LDMuOSwzLDcsM2MzLjEsMCw1LjUtMC4yLDcuMy0yLjNjMS42LTEuOSwxLjQtNC4yLDEuNC02LjRWNS42aC01LjV2MS4zYy0xLjItMS4yLTIuNS0xLjYtMy41LTEuN2MtMi0wLjMtNC44LDAuNC02LjUsMi42Yy0xLjQsMS44LTEuNiw0LjQtMS40LDYuMmMwLjMsMi4yLDEuNSwzLjgsMy41LDQuOWMyLjIsMS4yLDUuOCwwLjksNy44LTAuOGMwLDAuNiwwLDEuOS0wLjIsMi41Yy0wLjQsMC45LTEuMiwxLjItMS44LDEuM2MtMC42LDAuMS0yLjIsMC40LTIuOC0wLjdjLTAuMS0wLjItMC4yLTAuMy0wLjItMC41SDEwMS41eiBNMTA4LjUsOS44YzAuNy0wLjIsMi4zLTAuMSwzLjEsMC44YzAuNSwwLjUsMC44LDEuMiwwLjcsMS45Yy0wLjEsMC42LTAuNCwxLjQtMSwxLjhjLTAuOSwwLjYtMi41LDAuNi0zLjQsMC4xYy0wLjctMC40LTEuMi0wLjktMS4zLTEuN2MtMC4xLTAuNSwwLTEuNCwwLjUtMkMxMDcuNSwxMC4yLDEwNy45LDEwLDEwOC41LDkuOCIvPjwvZz48L2c+PC9nPjxnPjxnPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMjAuOCw1LjRoNS41djE0LjVoLTUuNVY1LjR6IE0xMjAuOCwwaDUuNXYzLjdoLTUuNVYweiIvPjwvZz48L2c+PC9nPjxnPjxnPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMzUuMiw5LjVjMC4xLTAuNCwwLjMtMC42LDAuNi0wLjljMC43LTAuNiwzLjQtMC40LDQuMS0wLjFjMC44LDAuNCwxLDEsMS4xLDJjMCwwLTEuNy0wLjEtMi45LTAuMWMtMS40LDAuMS0yLDAuMS0zLjIsMC4zYy0yLjQsMC4zLTQuOCwwLjctNS40LDMuNmMtMC40LDIsMC4yLDMuOCwyLjEsNWwwLjIsMC4xYzIuOCwxLjIsNi4zLDAuOCw5LjQtMWMwLDAsMCwwLjksMC4yLDEuM2w2LjQsMGMtMC43LTAuNi0xLTEuNi0xLTN2LTYuMmMwLTEuMiwwLjEtMi44LTAuNy0zLjdjLTEuMy0xLjctMy43LTIuMS03LjktMi4xYy0zLjQsMC01LjcsMC4yLTcsMS45Yy0wLjYsMC45LTAuOCwxLjYtMC44LDIuN0gxMzUuMnogTTE0MC44LDEzLjVjLTAuNSwxLjktMS42LDIuNS0zLDIuN2MtMC44LDAuMS0yLjEsMC4yLTIuNy0wLjljLTAuMS0wLjItMC4yLTAuOC0wLjEtMWMwLjQtMC44LDEuMS0wLjcsMi45LTAuOEwxNDAuOCwxMy41eiIvPjwvZz48L2c+PC9nPjxnPjxnPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xNTAuNSw1LjRoNS41djEuNGMyLjctMi40LDYuMi0yLjQsOC40LTFjMi40LDEuNSwyLjQsMy44LDIuNCw2LjR2Ny43aC01LjV2LTYuMWMwLTEuNCwwLjEtMy4yLTEuMy00LjFjLTAuNy0wLjQtMi4xLTAuNC0yLjgsMC4yYy0xLjQsMS0xLjIsMi4yLTEuMiw0LjN2NS44aC01LjVWNS40eiIvPjwvZz48L2c+PC9nPjxnPjxnPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik00OS4yLDUuMnY1LjZjLTEuNywwLTIuOCwwLjItMy45LDF2OC4xaC01LjVWNS40aDUuNXYxLjdjMC4zLTAuNSwxLTEuMSwxLjktMS41QzQ3LjUsNS40LDQ4LjUsNS4yLDQ5LjIsNS4yIi8+PC9nPjwvZz48L2c+PC9nPjwvc3ZnPg==">
+                                </div>
+                                <div class="cookie-consent__body" >
+                                    <h3 class="cookie-consent__title">Before you book your next flight...</h3>
+                                    <div class="cookie-consent__description">To improve your experience on our websites, we use cookies. These cookies are a combination of our own and third-parties’ to gather information about usage and preferences. We also use cookies to present more relevant ads to you and for analytical purposes. You can choose to accept all cookies or to adjust settings.</div>
+                                </div>
+                                <div class="cookie-consent__footer">
+                                    <div class="cookie-consent__footer-buttons">
+                                        <button type="button" class="button button--primary cookie-consent__accept-all-button" onclick="onCookieConsentAcceptAllClick('en', 'uk', 'w9GyTVVALq6zGTjjOfvjPIikChlDZCDump3_zpzIamHqTmrx1GctDoHpxEHA_K_WtOCpkBr6oIeUBjZCddZeGXw8G101:mKIl3e8OyjfQuZ9tZAc6st0YR08vutglNB4OvVelYRFK2AY7_h-bkaR0kc7OBPo67on1be6o8qbyuD8gxnv3-cCEz6s1')" >Accept all</button>
+                                        <button type="button" class="button" onclick="openCookieConsentWindow('/uk/resources/cookies/?nas-element-cookie-consent-view=settings', 600, 600)" >Adjust settings</button>
+                                    </div>
+                                    <div>Read more about <button type="button" class="button button--link" onclick="openCookieConsentWindow('/uk/resources/cookies/?nas-element-cookie-consent-view=info', 600, 600)">our cookie policy</button></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":null,"displayAfter":500,"dynamicLayout":true}, null, null, $get("ctl00_MainContent_ipcAvaDay_ipcAjaxUpdateProgress_ajaxUpdateProgress"));
+});
+//]]>
+</script>
+</form>
+        </div>
+        
+
+<footer class="page-footer page-footer--small">
+    <div class="grid">
+        <hr />
+        <div class="row">
+            <section class="col-12--lg">
+                <button type="button" class="button button--large button--right" onclick="NasPlainScrollToController.scrollTo()">To the top<i class="icon-small  icon-small--arrow-up"></i></button>
+                <ul class="list list--horizontal">
+                        <li><a href="/uk/booking/booking-information/legal/terms-of-use/">Terms of use</a></li>
+                        <li><a href="/uk/booking/booking-information/legal/general-conditions-of-carriage/">General Conditions of Carriage</a></li>
+                        <li><a href="/uk/booking/booking-information/legal/privacy-policy/">Privacy policy</a></li>
+                        <li><a href="/uk/booking/booking-information/legal/cookies/">Cookies</a></li>
+                        <li><a href="/uk/booking/booking-information/legal/advertised-fare-conditions/">Advertised fare conditions</a></li>
+                        <li><a href="/uk/help-contact/enable-accessibility-mode/">Accessibility mode</a></li>
+                </ul>
+             </section>
+        </div>
+            <div class="row  row--spacing-top">
+                <section class="col-12--lg">
+                    © 2020 Norwegian Air Shuttle ASA. Please note that this is a Norwegian retail site, hence Norwegian legislation and rules apply to any fees and/or charges.
+                </section>
+            </div>
+    </div>
+</footer>
+
+    </main>
+    <script async id="e11233f1926a" type="text/javascript">(function () { var sri = 'sha256-PdPDWJhQjJwcjvILlz27rKjMBZM8yzs6fPVunvdzW9Q='; var siteId = 'e11233f1926a'; function t(t,e){for(var n=t.split(""),r=0;r<n.length;++r)n[r]=String.fromCharCode(n[r].charCodeAt(0)+e);return n.join("")}function e(e){return t(e,-l).replace(/%SN%/g,siteId)}function n(t){try{S.ex=t,g(S)}catch(e){}}function r(t,e,n){var r=document.createElement("script");r.onerror=n,r.onload=e,r.type="text/javascript",r.id="ftr__script",r.async=!0,r.src="https://"+t;var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(r,o)}function o(){k(T.uAL),setTimeout(i,v,T.uAL)}function i(t){try{var e=t===T.uDF?h:m;r(e,function(){try{U(),n(t+T.uS)}catch(e){}},function(){try{U(),S.td=1*new Date-S.ts,n(t+T.uF),t===T.uDF&&o()}catch(e){n(T.eUoe)}})}catch(i){n(t+T.eTlu)}}var a={write:function(t,e,n,r){void 0===r&&(r=!0);var o,i;if(n?(o=new Date,o.setTime(o.getTime()+24*n*60*60*1e3),i="; expires="+o.toGMTString()):i="",!r)return void(document.cookie=escape(t)+"="+escape(e)+i+"; path=/");var a,c,u;if(u=location.host,1===u.split(".").length)document.cookie=escape(t)+"="+escape(e)+i+"; path=/";else{c=u.split("."),c.shift(),a="."+c.join("."),document.cookie=escape(t)+"="+escape(e)+i+"; path=/; domain="+a;var s=this.read(t);null!=s&&s==e||(a="."+u,document.cookie=escape(t)+"="+escape(e)+i+"; path=/; domain="+a)}},read:function(t){for(var e=escape(t)+"=",n=document.cookie.split(";"),r=0;r<n.length;r++){for(var o=n[r];" "==o.charAt(0);)o=o.substring(1,o.length);if(0===o.indexOf(e))return unescape(o.substring(e.length,o.length))}return null}},c="fort",u="erTo",s="ken",d=c+u+s,f="9";f+="ck";var l=3,h=e("(VQ(1fgq71iruwhu1frp2vq2(VQ(2vfulsw1mv"),m=e("g68x4yj4t5;e6z1forxgiurqw1qhw2vq2(VQ(2vfulsw1mv"),v=10;window.ftr__startScriptLoad=1*new Date;var g=function(t){var e=function(t){return t||""},n=e(t.id)+"_"+e(t.ts)+"_"+e(t.td)+"_"+e(t.ex)+"_"+e(f);a.write(d,n,1825,!0)},p=function(){var t=a.read(d)||"",e=t.split("_"),n=function(t){return e[t]||void 0};return{id:n(0),ts:n(1),td:n(2),ex:n(3),vr:n(4)}},w=function(){for(var t={},e="fgu",n=[],r=0;r<256;r++)n[r]=(r<16?"0":"")+r.toString(16);var o=function(t,e,r,o,i){var a=i?"-":"";return n[255&t]+n[t>>8&255]+n[t>>16&255]+n[t>>24&255]+a+n[255&e]+n[e>>8&255]+a+n[e>>16&15|64]+n[e>>24&255]+a+n[63&r|128]+n[r>>8&255]+a+n[r>>16&255]+n[r>>24&255]+n[255&o]+n[o>>8&255]+n[o>>16&255]+n[o>>24&255]},i=function(){if(window.Uint32Array&&window.crypto&&window.crypto.getRandomValues){var t=new window.Uint32Array(4);return window.crypto.getRandomValues(t),{d0:t[0],d1:t[1],d2:t[2],d3:t[3]}}return{d0:4294967296*Math.random()>>>0,d1:4294967296*Math.random()>>>0,d2:4294967296*Math.random()>>>0,d3:4294967296*Math.random()>>>0}},a=function(){var t="",e=function(t,e){for(var n="",r=t;r>0;--r)n+=e.charAt(1e3*Math.random()%e.length);return n};return t+=e(2,"0123456789"),t+=e(1,"123456789"),t+=e(8,"0123456789")};return t.safeGenerateNoDash=function(){try{var t=i();return o(t.d0,t.d1,t.d2,t.d3,!1)}catch(n){try{return e+a()}catch(n){}}},t.isValidNumericalToken=function(t){return t&&t.toString().length<=11&&t.length>=9&&parseInt(t,10).toString().length<=11&&parseInt(t,10).toString().length>=9},t.isValidUUIDToken=function(t){return t&&32===t.toString().length&&/^[a-z0-9]+$/.test(t)},t.isValidFGUToken=function(t){return 0==t.indexOf(e)&&t.length>=12},t}(),T={uDF:"UDF",uAL:"UAL",mLd:"1",eTlu:"2",eUoe:"3",uS:"4",uF:"9",tmos:["T5","T10","T15","T30","T60"],tmosSecs:[5,10,15,30,60],bIR:"43"},y=function(t,e){for(var n=T.tmos,r=0;r<n.length;r++)if(t+n[r]===e)return!0;return!1};try{var S=p();try{S.id&&(w.isValidNumericalToken(S.id)||w.isValidUUIDToken(S.id)||w.isValidFGUToken(S.id))||(S.id=w.safeGenerateNoDash()),S.ts=window.ftr__startScriptLoad,g(S);var D=new Array(T.tmosSecs.length),k=function(t){for(var e=0;e<T.tmosSecs.length;e++)D[e]=setTimeout(n,1e3*T.tmosSecs[e],t+T.tmos[e])},U=function(){for(var t=0;t<T.tmosSecs.length;t++)clearTimeout(D[t])};y(T.uDF,S.ex)?o():(k(T.uDF),setTimeout(i,v,T.uDF))}catch(F){n(T.mLd)}}catch(F){}})()</script>
+    <div id="ctl00_localStorageMarketingKeys" hidden="" data-local-storage-marketing-keys="[&quot;ngStorage-abandonedBasket&quot;,&quot;ngStorage-preferredOriginAirportCode&quot;]"></div>
+        <script>
+            var localStorageMarketingKeysElementInline = document.getElementById("ctl00_localStorageMarketingKeys"); 
+        </script>
+        <script src="/resourceipc/script-bundle/cookie-consent?v=ZbTXOPtZYT9PQh9ROZeUkzVrJEDdSDSVG0OcUGwi99A1"></script>
+
+    
+</body>
+</html>

@@ -8,3 +8,6 @@ C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\obj\Debug\Norwegia
 C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\obj\Debug\Norwegian.csproj.CopyComplete
 C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\RestSharp.dll
 C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\RestSharp.xml
+C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mariu\Documents\GitHub\Norwegian\Norwegian\Norwegian\bin\Debug\HtmlAgilityPack.xml
